@@ -1011,16 +1011,26 @@ input[type='checkbox'] {
 }
 
 .cards-2 .card .card-body {
-	padding: 2.5rem 2.75rem 1.875rem 2.5rem;
+	padding: 2.5rem 1.5rem 1.875rem 1.5rem;
+}
+
+.cards-2 .card.card-image .card-body {
+	padding-top: 15rem;
+	background-repeat: no-repeat;
+	background-size: auto 15rem;
 }
 
 .cards-2 .card .card-title {
 	margin-bottom: 0.625rem;
 	color: #393939;
 	font-weight: 700;
-	font-size: 1.75rem;
+	font-size: 1.5rem;
 	line-height: 2.25rem;
 	text-align: center;
+}
+
+.cards-2 .card.card-image .card-title {
+	margin-top: 1.25rem;
 }
 
 .cards-2 .card .card-subtitle {
