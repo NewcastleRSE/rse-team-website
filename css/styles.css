@@ -1015,9 +1015,9 @@ input[type='checkbox'] {
 }
 
 .cards-2 .card.card-image .card-body {
-	padding-top: 15rem;
+	padding-top: 12rem;
 	background-repeat: no-repeat;
-	background-size: auto 15rem;
+	background-size: auto 12rem;
 }
 
 .cards-2 .card .card-title {
