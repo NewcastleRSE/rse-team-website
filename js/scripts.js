@@ -171,25 +171,21 @@
 
     function rsubmitForm() {
         // initiate variables with form content
-		var name = $("#rname").val();
-		var email = $("#remail").val();
-		var phone = $("#rphone").val();
-        var select = $("#rselect").val();
-        var terms = $("#rterms").val();
-        
-        $.ajax({
-            type: "POST",
-            url: "php/requestform-process.php",
-            data: "name=" + name + "&email=" + email + "&phone=" + phone + "&select=" + select + "&terms=" + terms, 
-            success: function(text) {
-                if (text == "success") {
-                    rformSuccess();
-                } else {
-                    rformError();
-                    rsubmitMSG(false, text);
-                }
-            }
-        });
+        var templateParams = {
+            name: $("#rname").val(),
+            email: $("#remail").val(),
+            interest: $("#rinterest").val(),
+        };
+         
+        emailjs.send('ZC3ZyEtAIMYrWHtT', 'template_ysndu6i', templateParams)
+            .then(function(response) {
+               console.log('SUCCESS!', response.status, response.text);
+               rformSuccess();
+            }, function(error) {
+               console.log('FAILED...', error);
+               rformError();
+               rsubmitMSG(false, error);
+            });
 	}
 
     function rformSuccess() {
@@ -229,23 +225,21 @@
 
     function csubmitForm() {
         // initiate variables with form content
-		var name = $("#cname").val();
-		var email = $("#cemail").val();
-        var message = $("#cmessage").val();
-        var terms = $("#cterms").val();
-        $.ajax({
-            type: "POST",
-            url: "php/contactform-process.php",
-            data: "name=" + name + "&email=" + email + "&message=" + message + "&terms=" + terms, 
-            success: function(text) {
-                if (text == "success") {
-                    cformSuccess();
-                } else {
-                    cformError();
-                    csubmitMSG(false, text);
-                }
-            }
-        });
+        var templateParams = {
+            name: $("#rname").val(),
+            email: $("#remail").val(),
+            interest: $("#rinterest").val(),
+        };
+         
+        emailjs.send('ZC3ZyEtAIMYrWHtT', 'template_ysndu6i', templateParams)
+            .then(function(response) {
+               console.log('SUCCESS!', response.status, response.text);
+               cformSuccess();
+            }, function(error) {
+               console.log('FAILED...', error);
+               cformError();
+               csubmitMSG(false, error);
+            });
 	}
 
     function cformSuccess() {
@@ -286,24 +280,21 @@
 
     function psubmitForm() {
         // initiate variables with form content
-		var name = $("#pname").val();
-		var email = $("#pemail").val();
-        var select = $("#pselect").val();
-        var terms = $("#pterms").val();
-        
-        $.ajax({
-            type: "POST",
-            url: "php/privacyform-process.php",
-            data: "name=" + name + "&email=" + email + "&select=" + select + "&terms=" + terms, 
-            success: function(text) {
-                if (text == "success") {
-                    pformSuccess();
-                } else {
-                    pformError();
-                    psubmitMSG(false, text);
-                }
-            }
-        });
+        var templateParams = {
+            name: $("#rname").val(),
+            email: $("#remail").val(),
+            interest: $("#rinterest").val(),
+        };
+         
+        emailjs.send('ZC3ZyEtAIMYrWHtT', 'template_ysndu6i', templateParams)
+            .then(function(response) {
+               console.log('SUCCESS!', response.status, response.text);
+               pformSuccess();
+            }, function(error) {
+               console.log('FAILED...', error);
+               pformError();
+               psubmitMSG(false, error);
+            });
 	}
 
     function pformSuccess() {
