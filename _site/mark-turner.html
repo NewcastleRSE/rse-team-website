@@ -187,7 +187,7 @@
 
 	<script src="../js/jquery.min.js"></script>
 	<script type="text/javascript">
-		$.getJSON('http://www.whateverorigin.org/get?url=' + encodeURIComponent("https://www.ncl.ac.uk/digitalinstitute/staff/profile/markturner.html") + '&callback=?', function(data){
+		$.getJSON('https://www.whateverorigin.org/get?url=' + encodeURIComponent("https://www.ncl.ac.uk/digitalinstitute/staff/profile/markturner.html") + '&callback=?', function(data){
 			var data = $(data.contents).find('h2:contains("Publications")').siblings("ul")
 
 			console.log(data[0]);
