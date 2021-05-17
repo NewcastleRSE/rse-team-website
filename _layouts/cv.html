@@ -45,7 +45,7 @@
 						<ul class="timeline-list">
 							{% for project in page.sections.projects %}
 							<li>
-								<h3 class="h3"><strong>{{project.title}}</strong> {{project.partner}}</h3>
+								<h3 class="h3"><strong>{{project.title}} /</strong> {{project.partner}}</h3>
 								<div class="year absolute">{{project.year}}</div>
 								<ul class="bullet-list">
 									{% for task in project.tasks %}
@@ -63,7 +63,7 @@
 				<div class="col col-2">
 					<div class="info-box">
 						<h2 class="h2">education</h2>
-						<h3 class="h3"><strong>{{page.sections.education.degree | textualize}}</strong> {{page.sections.education.university | textualize}}</h3>
+						<h3 class="h3"><strong>{{page.sections.education.degree | textualize}} /</strong> {{page.sections.education.university | textualize}}</h3>
 						<div class="year">{{page.sections.education.years | textualize}}</div>
 						<p>{{page.sections.education.description | textualize}}</p>
 					</div>
@@ -87,7 +87,7 @@
 								</ul>
 							</li>
 							<li>
-								<div class="dt">Core Interests:</div>
+								<div class="dt">Topics:</div>
 								<ul class="tag-list">
 									{% for item in page.sections.skills.topics %}
 									<li>{{ item }}</li>
