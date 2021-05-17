@@ -1365,6 +1365,7 @@ input[type='checkbox'] {
 	overflow: hidden;
 	margin-bottom: 1.5rem;
 	border-radius: 50%;
+	display: block;
 }
 
 .basic-4 .image-wrapper img {
