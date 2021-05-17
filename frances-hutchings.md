@@ -10,8 +10,7 @@ sections:
     degree: PhD Computational Neuroscience
     university: Newcastle University
     years: 2014-2019
-    description: Conducted original research using computational modelling to explore the impact of brain
-    stimulation on neural tissue.
+    description: Conducted original research using computational modelling to explore the impact of brain stimulation on neural tissue.
   skills:
     programming:
       - Matlab
