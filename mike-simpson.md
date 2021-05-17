@@ -17,7 +17,7 @@ sections:
       - C++
       - Java
       - PHP/HTML/CSS
-      - Javascript
+      - JavaScript
     software:
       - Blender
       - PowerBI
@@ -38,18 +38,18 @@ sections:
       - 3D Modelling
   projects:
     - title: Precision Diabetes 
-      partner: The Alan Turing Insitute, British Heart Foundation, University of Exeter, University College London
+      partner: The Alan Turing Institute, British Heart Foundation, University of Exeter, University College London
       year: 2021-
       tasks:
         - Developing a classification tool to help select diabetes patients for trials and studies
         - Improving an existing diabetes treatment tool with additional information, including visualisation of risk
         - Working with a massive dataset from the BHF to look at links between heart disease, diabetes and COVID-19
     - title: Rome Transformed
-      partner: Newcastle University School of History, Classics and Archeology
+      partner: Newcastle University School of History, Classics and Archaeology
       year: 2020-2021
       tasks:
         - Augmenting and adjusting an existing software solution to suit the needs of the RomeTransformed project
-        - Collaborating with Archeologists to support the documentation and discussion of archeological evidence from sites in Rome
+        - Collaborating with Archaeologists to support the documentation and discussion of archaeological evidence from sites in Rome
     - title: Degree Apprenticeship in Software Engineering
       partner: Newcastle University School of Computing & The Institute of Coding
       year: 2020-2021
@@ -57,11 +57,11 @@ sections:
         - Module leader on 'Introduction of Software Development'
         - Creating material and supporting the move to online teaching during the COVID-19 pandemic
         - General support for Degree Apprentices, many of whom were learning programming for the first time.
-    - title: Automating Data Visualisation / Visualsiation of Uncertainty
-      partner: Prof. Nick Holliman (Newcaslte University School of Computing) and The Alan Turing Institute
+    - title: Automating Data Visualisation / Visualisation of Uncertainty
+      partner: Prof. Nick Holliman (Newcastle University School of Computing) and The Alan Turing Institute
       year: 2018-2020
       tasks:
-        - Developing new data visualisation plugins for PowerBI
+        - Developing new data visualisation plug-ins for PowerBI
         - Creating engaging visualisations of air quality data using Blender
         - Development of a pipeline to process and visualise data automatically using Blender
         - Creating and evaluating new techniques for visualising uncertainty in data
@@ -80,6 +80,6 @@ sections:
 ---
 Dr Mike Simpson is a Research Software Engineer working for the RSE Team in the Digital Institute. He graduated with a BSc in Computing from Newcastle University in 2008, followed by an MSc in Computer Games Engineering in 2009. He worked as a Game Programmer at a local studio for two years before returning to the university to start his PhD in 2011. His thesis was titled "Real-time Simulation of Rail Vehicle Dynamics" and involved using software and development practices from the game industry to develop and evaluate real-time 3D engineering simulations.
 
-Since joining the Digital Institute in 2016, he developed software applications for a number of research projects, including projects with the NHS and the Alan Turing Institute. He has presented his work at a number of events, incluing the international Blender conference in Amsterdam, the UK RSE Conference and the IEEE e-Science Conference in Aukland, NZ. 
+Since joining the Digital Institute in 2016, he developed software applications for a number of research projects, including projects with the NHS and the Alan Turing Institute. He has presented his work at a number of events, including the international Blender conference in Amsterdam, the UK RSE Conference and the IEEE e-Science Conference in Auckland, NZ. 
 
-His research interests include the application of games industry technologies for other applications - such as gamification in education and healthcare - as well as virtual simulation and data visualisation. He also has experience of 3D graphics, web development and software engineering in a range of programming languages. His other interests include Photoraphy and 3D modelling, as well as reading and writing fiction. He also runs a blog where he discusses issues ranging from Video Games to Mental Health. 
+His research interests include the application of games industry technologies for other applications - such as gamification in education and healthcare - as well as virtual simulation and data visualisation. He also has experience of 3D graphics, web development and software engineering in a range of programming languages. His other interests include Photography and 3D modelling, as well as reading and writing fiction. He also runs a blog where he discusses issues ranging from Video Games to Mental Health. 
