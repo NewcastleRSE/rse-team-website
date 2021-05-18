@@ -46,7 +46,7 @@ sections:
       - Video games
       - Jewellery making
   projects:
-    - title: Vague Nerve Stimulation Modelling
+    - title: Vagus Nerve Stimulation Modelling
       partner: CNNP Lab, School of Computing
       year: 2021-2021
       tasks:
