@@ -73,4 +73,4 @@ sections:
 ---
 After many years in industry as a software engineer Dr. Jannetta Steyn returned to university to study for a Masters in Bioinformatics followed by a PhD in computational neuroscience. She then joined the Bioinformatics Support Unit of Newcastle University for two and a half years after which she worked as a Senior Research Associate in the School of Computing. In 2019 she joined the Research Software Engineering Team as a Senior Research Software Engineer. In 2020 she qualified as a Carpentries Instuctor and has since taken the lead in organising and instructing Software Carpentries workshops at the University.
 
-Jannetta is a STEM Ambassador enjoys taking part in outreach activities to make the public aware of the research that is being done at the university.
+Jannetta is a STEM Ambassador and enjoys taking part in outreach activities to make the public aware of the research that is being done at the university.
