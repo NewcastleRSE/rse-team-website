@@ -62,7 +62,7 @@ sections:
       tasks:
         - Development of severless function to deliver images to permanent storage
         - Create Power BI reports to visualise data
-    - title: Screening Violence: experiences of conflict around the globe
+    - title: "Screening Violence: experiences of conflict around the globe"
       partner: School of Modern Languages
       year: 2020-2021
       tasks:
