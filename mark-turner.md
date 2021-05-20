@@ -46,6 +46,7 @@ sections:
       - Travelling
       - Climbing
       - Hiking
+      - Photography
       - Football
   projects:
     - title: Rest & Be Thankful
