@@ -62,7 +62,7 @@ sections:
       tasks:
         - Development of severless function to deliver images to permanent storage
         - Create Power BI reports to visualise data
-    - title: Screening Violence: experiences of conflict around the globe
+    - title: "Screening Violence: experiences of conflict around the globe"
       partner: School of Modern Languages
       year: 2020-2021
       tasks:
@@ -78,7 +78,7 @@ sections:
       year: 2020
       tasks:
         - Develop a digital recreation of a popular British history and heritage-themed educational board game from the nineteenth century
-    - title: Digital Storytelling: Placing Young Men in the City of Dreams
+    - title: "Digital Storytelling: Placing Young Men in the City of Dreams"
       partner: School of Geography, Politics and Sociology, North East Young Dads and Lads, and Seven Stories
       year: 2020
       tasks:
