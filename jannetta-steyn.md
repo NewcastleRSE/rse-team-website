@@ -42,6 +42,7 @@ sections:
       - Tae Kwon Do, Karate
   projects:
     - title: Carpentries Workshops
+      partner: Research Software Engineering
       year: 2020 - 2021
       tasks:
         - Organising Carpentries workshops
