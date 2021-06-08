@@ -38,18 +38,19 @@ sections:
 	interests:
 	  - Video and board games
 	  - Drumming
-	projects:
-	  - title: PYRAMID
-	    partner: Newcastle University School of Engineering
-		year: 2021
-		tasks:
-		  - Visualisation of flood risk information from hydrodynamic simulation
-		  - Data pipeline and tools component integration / architecture
-	  - title: CNNP Epilepsy Database
-	    partner: Newcastle University School of Computing CNNP Lab
-		year: 2021
-		tasks:
-		  - MongoDB patient information database
-		  - Azure storage of linked patient monitoring and scan data
+  projects:
+    - title: PYRAMID
+      partner: Newcastle University School of Engineering
+      year: 2021
+      tasks:
+        - Visualisation of flood risk information from hydrodynamic simulation
+        - Data pipeline and tools component integration / architecture
+    - title: CNNP Epilepsy Database
+      partner: Newcastle University School of Computing CNNP Lab
+      year: 2021
+      tasks:
+        - MongoDB patient information database
+        - Azure storage of linked patient monitoring and scan data
+
 ---
 Robin joined the Research Software Engineering team in May 2021, on completing a PhD in Energy at Newcastle University. He graduated with a Masters in Electro-mechanical Engineering from Manchester University, and has additionally worked as an RA in Newcastle University's School of Engineering on energy systems demonstrator and modelling projects, including in collaboration with the Centre for Energy Systems Integration. He has also worked extensively in industry, principally in scientific and simulation sofware environments, and has significant project management experience in both industrial and university contexts. Robin is training to be a Software Carpentries Instructor and to deliver Degree Apprenticeship modules in collaboration with the Institute of Coding.
