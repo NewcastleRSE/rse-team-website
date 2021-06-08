@@ -4,7 +4,7 @@
 	
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{{page.title}}</title>
+	<title>Nik Khadijah Nik Aznan</title>
 	<link rel="icon" type="image/png" href="images/favicon.ico">
     <link href="css/fontawesome-all.css" rel="stylesheet">
 	<link media="all" rel="stylesheet" href="../css/main.css">
@@ -15,21 +15,21 @@
 		<header id="sidebar">
 			<h2><a href="/"><i class="fas fa-arrow-left"></i>&nbsp;Back</a></h2>
 			<div class="logo">
-					<img src="../images/{{page.sections.image | textualize}}" alt="{{page.title}}" width="400" height="400">
+					<img src="../images/nik.png" alt="Nik Khadijah Nik Aznan" width="400" height="400">
 			</div>
 			<ul class="sidebar-info-list">
 				<li>
 					<div class="dt">name</div>
-					<div class="dd">{{page.title}}
+					<div class="dd">Nik Khadijah Nik Aznan
 					</div>
 				</li>
 				<li>
 					<div class="dt">role</div>
-					<div class="dd">{{page.sections.role | textualize}}</div>
+					<div class="dd">Research Software Engineer</div>
 				</li>
 				<li>
 					<div class="dt">email</div>
-					<div class="dd"><a href="mailto:{{page.sections.email | textualize}}" class="link">{{page.sections.email | textualize}}</a></div>
+					<div class="dd"><a href="mailto:nik.nik-aznan@ncl.ac.uk" class="link">nik.nik-aznan@ncl.ac.uk</a></div>
 				</li>
 			</ul>
 		</header>
@@ -39,23 +39,28 @@
 					<div class="info-box">
 						<h2 class="h2">about</h2>
 						<div class="text-box">
-							{{content}}
+							<p>Nik joined the team from Durham University where she was a PhD student focusing upon a multidisciplinary study combining the fields of Machine Learning (ML) and Brain-Computer Interfaces (BCI), covering areas including signal recognition, object detection and adversarial learning. Prior to that, Nik worked in the aviation and home-automation industries, as well as getting a Masters from South Korea.</p>
+
 						</div>
 					</div>
 					<div class="info-box">
 						<h2 class="h2">PROJECTS</h2>
 						<ul class="timeline-list">
-							{% for project in page.sections.projects %}
+							
 							<li>
-								<h3 class="h3"><strong>{{project.title}} /</strong> {{project.partner}}</h3>
-								<div class="year absolute">{{project.year}}</div>
+								<h3 class="h3"><strong>TRACK /</strong> School of Computing</h3>
+								<div class="year absolute">2021-2021</div>
 								<ul class="bullet-list">
-									{% for task in project.tasks %}
-									<li>{{task}}</li>
-									{% endfor %}
+									
+									<li>Data annotation and data analysis</li>
+									
+									<li>Developing frameworks for person detection in public transportation images using machine learning</li>
+									
+									<li>Investigating solutions for automated social distancing measures</li>
+									
 								</ul>
 							</li>
-							{% endfor %}
+							
 						</ul>
 					</div>
 					<!-- <div class="info-box" id="publication-list">
@@ -65,9 +70,9 @@
 				<div class="col col-2">
 					<div class="info-box">
 						<h2 class="h2">education</h2>
-						<h3 class="h3"><strong>{{page.sections.education.degree | textualize}} /</strong> {{page.sections.education.university | textualize}}</h3>
-						<div class="year">{{page.sections.education.years | textualize}}</div>
-						<p>{{page.sections.education.description | textualize}}</p>
+						<h3 class="h3"><strong>PhD Computer Science /</strong> Durham University</h3>
+						<div class="year">2016-2021</div>
+						<p>Developing a real-time BCI application to tackle fundamental constraints in bio-signals decoding.</p>
 					</div>
 					<div class="info-box">
 						<h2 class="h2">technical</h2>
@@ -75,25 +80,53 @@
 							<li>
 								<div class="dt">Programming:</div>
 								<ul class="tag-list">
-									{% for item in page.sections.skills.programming %}
-									<li>{{ item }}</li>
-									{% endfor %}
+									
+									<li>Python</li>
+									
+									<li>Matlab</li>
+									
+									<li>C/C++</li>
+									
+									<li>VB.net</li>
+									
 								</ul>
 							</li>
 							<li>
 								<div class="dt">Software:</div>
 								<ul class="tag-list">
-									{% for item in page.sections.skills.software %}
-									<li>{{ item }}</li>
-									{% endfor %}
+									
+									<li>Unix Shell</li>
+									
+									<li>LaTeX</li>
+									
+									<li>GitHub Workflows</li>
+									
+									<li>Arduino</li>
+									
+									<li>SQL</li>
+									
+									<li>Labview</li>
+									
+									<li>PcVue</li>
+									
 								</ul>
 							</li>
 							<li>
 								<div class="dt">Topics:</div>
 								<ul class="tag-list">
-									{% for item in page.sections.skills.topics %}
-									<li>{{ item }}</li>
-									{% endfor %}
+									
+									<li>Data Analysis</li>
+									
+									<li>Signal Processing</li>
+									
+									<li>Machine Learning</li>
+									
+									<li>Data Generation</li>
+									
+									<li>Brain Computer Interface</li>
+									
+									<li>GPU Computing</li>
+									
 								</ul>
 							</li>
 						</ul>
@@ -104,9 +137,17 @@
 							<li>
 								<div class="dt">I enjoy:</div>
 								<ul class="tag-list">
-									{% for item in page.sections.skills.interests %}
-									<li>{{ item }}</li>
-									{% endfor %}
+									
+									<li>Walking</li>
+									
+									<li>Cycling</li>
+									
+									<li>Badminton</li>
+									
+									<li>Painting</li>
+									
+									<li>Video games/board games</li>
+									
 								</ul>
 							</li>
 						</ul>
@@ -118,7 +159,7 @@
 
 	<!-- <script src="../js/jquery.min.js"></script>
 	<script type="text/javascript">
-		$.getJSON('http://alloworigin.com/get?url=' + encodeURIComponent("{{page.sections.webpage | textualize}}"), function(data){
+		$.getJSON('http://alloworigin.com/get?url=' + encodeURIComponent("https://scholar.google.com/citations?user=eG4fl-YAAAAJ&hl=en"), function(data){
 			var data = $(data.contents).find('h2:contains("Publications")').siblings("ul")
 
 			console.log(data[0]);
