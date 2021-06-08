@@ -7,37 +7,38 @@ sections:
   webpage:
   role: Research Software Engineer
   education:
-  	degree: PhD Energy
-	university: Newcastle University
-	years: 2015-2021
-	description: Modelling and analysis of integrated multi-domain energy systems and networks
+    degree: PhD Energy
+    university: Newcastle University
+    years: 2015-2021
+    description: Modelling and analysis of integrated multi-domain energy systems and networks
+
   skills:
     programming:
-	  - C / C++
-	  - Javascript
-	  - FORTRAN
-	  - HTML / CSS
-	  - Unix shells
-	  - Python
-	  - Modelica
-	  - Matlab
-	software:
-	  - Docker
-	  - MongoDB
-	  - OpenModelica / Dymola
-	  - Terraform
-	  - LaTeX
-	  - Blender
-	  - GitHub Workflows
-	  - Gimp
-	topics:
-	  - System modelling and simulation
-	  - Numerical methods
-	  - Data processing and analysis
-	  - Visualisation
-	interests:
-	  - Video and board games
-	  - Drumming
+      - C / C++
+      - Javascript
+      - FORTRAN
+      - HTML / CSS
+      - Unix shells
+      - Python
+      - Modelica
+      - Matlab
+    software:
+      - Docker
+      - MongoDB
+      - OpenModelica / Dymola
+      - Terraform
+      - LaTeX
+      - Blender
+      - GitHub Workflows
+      - Gimp
+    topics:
+      - System modelling and simulation
+      - Numerical methods
+      - Data processing and analysis
+      - Visualisation
+    interests:
+      - Video and board games
+      - Drumming
   projects:
     - title: PYRAMID
       partner: Newcastle University School of Engineering
