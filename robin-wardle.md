@@ -39,6 +39,8 @@ sections:
     interests:
       - Video and board games
       - Drumming
+      - Golf
+      - Modelmaking and minifigure painting
   projects:
     - title: PYRAMID
       partner: Newcastle University School of Engineering
