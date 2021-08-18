@@ -2,7 +2,7 @@
 title: Samantha Finnigan
 layout: cv
 sections:
-  image: SJMF_512.jpg
+  image: samantha.jpg
   email: samantha.finnigan@ncl.ac.uk
   webpage: https://sjmf.in/
   role: Research Software Engineer
