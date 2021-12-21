@@ -59,4 +59,4 @@ sections:
 ---
 Jim joined the Research Software Engineering team in 2020, having spent 4 years in the same role at the University of Manchester. He previously worked in a range of development and support roles with both public and private sector organisations, either side of completing an MSc in Computer Science at Birmingham University. 
 
-Jim's projects focus on making data accessible and understandable, whether that's visualising huge genomic datasets for public consumption or providing integration pipelines to transform and publish renewable generation forecasts. He also provides support and oversight to all projects based in the Faculty of Medical Sciences
+Jim's projects focus on making data accessible and understandable, whether that's visualising huge genomic datasets for public consumption or providing integration pipelines to transform and publish renewable generation forecasts. He currently leads the team's Middleware and Data Science group.
