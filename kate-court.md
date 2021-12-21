@@ -102,4 +102,4 @@ sections:
         - Develop Rest API to pass data to and from a database and handle authentication
     
 ---
-Kate is a full stack web developer who originally trained in the Arts before completing an MSc in Computer Science at Newcastle University in 2018. During her time in the team she has trained as a Software Carpentries instructor and supervised Masters level dissertation students. She has also designed and delivered an entry level digital skills course for local women. Kate is Project Coordinator for HaSS which includes providing grant writing support and estimating staffing requirements.
+Kate is a full stack web developer who originally trained in the Arts before completing an MSc in Computer Science at Newcastle University in 2018. During her time in the team she has trained as a Software Carpentries instructor and supervised Masters level dissertation students. She has also designed and delivered an entry level digital skills course for local women. Kate leads the Web and Mobile Team.
