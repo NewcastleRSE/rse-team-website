@@ -5,7 +5,7 @@ sections:
   image: kate.png
   email: kate.court@ncl.ac.uk
   webpage: 
-  role: Research Software Engineer
+  role: Senior Research Software Engineer
   education:
     degree: PhD Design
     university: Edinburgh University
@@ -35,9 +35,20 @@ sections:
       - Printmaking
       - Walking
   projects:
+    - title: NUAcT Development Programme
+      partner: Newcastle University Academic Track Fellowship scheme
+      year: 2021-2022
+      tasks:
+        - Provide a suit of bespoke support to NUAcT Fellows and their staff and students including training and grant writing assistance. 
+    - title: Dolfin
+      partner: Paediatric Neurodisability
+      year: 2022
+      tasks:
+        - Development of a mobile phone app for Android and iOS to collect trial data and provide push notifications.
+        - Supporting Google Firebase setup for authentication, cloud messaging and database hosting.
     - title: Spatial Inequality and the Smart City
       partner: School of Geography
-      year: 2021
+      year: 2021-2022
       tasks:
         - Produce prototypes for stakeholder engagement
         - Hold stakeholder focus groups
@@ -102,4 +113,4 @@ sections:
         - Develop Rest API to pass data to and from a database and handle authentication
     
 ---
-Kate is a full stack web developer who originally trained in the Arts before completing an MSc in Computer Science at Newcastle University in 2018. During her time in the team she has trained as a Software Carpentries instructor and supervised Masters level dissertation students. She has also designed and delivered an entry level digital skills course for local women. Kate is Project Coordinator for HaSS which includes providing grant writing support and estimating staffing requirements.
+Kate is a full stack web developer who originally trained in the Arts before completing an MSc in Computer Science at Newcastle University in 2018. During her time in the team she has trained as a Software Carpentries instructor and supervised Masters level dissertation students. She has also designed and delivered an entry level digital skills course for local women. Kate manages the Middleware and Data Science sub-team. 

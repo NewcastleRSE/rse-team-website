@@ -660,6 +660,15 @@ p a:hover {
 	font-family: "brandon-grotesque", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
 }
 
+#sidebar h2 {
+	margin: 17px 0 34px;
+}
+
+#sidebar h2 a {
+	text-decoration: none;
+	color: inherit;
+}
+
 .logo {
 	margin-bottom: 30px;
 	display: flex;
@@ -1148,7 +1157,7 @@ h3 strong,
 
 	#sidebar {
 		width: 471px;
-		padding: 75px 50px 50px 50px;
+		padding: 50px;
 	}
 
 	#main {
