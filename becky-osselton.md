@@ -39,6 +39,14 @@ sections:
       - Art
       - Karate
   projects:
+    - title: Data Safe Haven
+      partner: The Alan Turing Institute
+      year: 2021-2022
+      tasks: 
+        - development of Django application
+        - containerisation of the Data Classification app using Docker
+        - replacement of Python dependency management with Poetry
+        - Authelia integration (MFA)   
     - title: Degree Apprenticeship in Software Engineering
       partner: Newcastle University School of Computing & The Institute of Coding
       year: 2021
