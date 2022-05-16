@@ -37,6 +37,19 @@ sections:
       - Dog Training
       - Travel
   projects:
+    - title: Mousemapp
+      partner:
+      year: 2022-2023
+      tasks:
+        - Front end mobile app to submit mouse pictures
+        - Server side to store data and send images for AI analysis
+    - title: QuOD Pathology Atlas - Phase 2
+      partner:
+      year: 2022
+      tasks:
+        - Build upon the previous version
+        - Updated to include a new database level for a region of an organ
+        - Imagery
     - title: QuOD Pathology Atlas
       partner:
       year: 2020-2021
@@ -74,4 +87,4 @@ sections:
         - Using Puppeteer and headless Chrome to crawl the website
         - Linux server and MySQL database set-up on Azure
 ---
-Fiona Galston is a full-stack web developer working as a Research Software Engineer within the team at Newcastle University. She has a background in Developmental Biology but graduated in Computer Network Technology. After graduating from Northumbria University she began her career in industry; working for a large technology organisation on projects in innovation, health and nuclear energy. Since joining the RSE team in 2019 she has kept a focus in web technologies but the subject matter has varied broadly, often being involved in socially or ethically impactful projects. She has also qualified as a Software Carpentries instructor and has taught several of their classes to PHD students and staff.
+Fiona Galston is a full-stack web developer with 3 years RSE expereince working within the team at Newcastle University. She has a background in Developmental Biology but graduated in Computer Network Technology. Prior to joining the team she worked in industry for a large technology organisation on projects in innovation, health and nuclear energy. As an RSE she has kept a focus in web technologies but the subject matter has varied broadly, branching into mobile and middleware for AI projects. She has also adopted a focus in socially or ethically impactful projects. She has also qualified as a Software Carpentries instructor and has taught several of their classes to PHD students and staff.
