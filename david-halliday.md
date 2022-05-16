@@ -7,10 +7,10 @@ sections:
   webpage: https://www.ncl.ac.uk/digitalinstitute/staff/profile/robinnandidavidhalliday.html
   role: Research Software Engineer
   education:
-    degree: 
-    university: 
+    degree: Elastic Certified Engineer and Observability Engineer
+    university: Elasticsearch
     years: 
-    description: 
+    description: Professional training in the running, maintenance, and orchestration of an Elasticsearch cluster. 
   skills:
     programming:
       - JavaScript
