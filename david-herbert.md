@@ -42,6 +42,45 @@ sections:
       - Gardening
       - Food
   projects:
+    - title: Medical Document Readability
+      partner: South Tyneside and Sunderland NHS Trust
+      year: 2022
+      tasks:
+        - Create a web-based tool to analyse medical documents intended for the public for readability
+        - Eventually intention to package as an Office 365 extension
+    - title: Urban Development Model front end
+      partner: School of Engineering, Newcastle and Gateshead Councils     
+      year: 2022
+      tasks:
+        - Map-based Decision Support Tool for Urban Development Modelling
+        - Allows specification of attractors and constraints
+        - Produces visualisations of UDM outputs to aid planning decisions
+    - title: Hinterlands
+      partner: Urban Observatory, Northumberland Hepple Estate
+      year: 2021
+      tasks:
+        - Building map-based visualisation of real-time positions of sensor-equipped animals on Hepple Estate
+        - Enabling temporal navigation of data, plus download of positional data within time boundaries
+    - Flood Prepared
+      partner: School of Engineering
+      year: 2021
+      tasks:
+        - Development of prototype mapping front end to flooding data for Newcastle
+    - title: UK Household Occupancy dataset
+      partner:  School of Engineering + University of Leeds
+      year: 2020-2022
+      tasks:
+        - Building a synthetic household/building occupancy dataset for UK from OS MasterMap and 2011 Census data
+        - Data cross-checking for NISMOD-DB++ database
+        - Contribution to a wider paper on Urban Development Modelling and Digital Twins
+    - title: Geospatial Engineering Centre for Doctoral Training (CDT)
+      partner: School of Engineering
+      year: ongoing
+      tasks:
+        - Software engineering support for MRes cohorts both at Newcastle and Nottingham
+        - Mentoring  of students
+        - Hardware and software requirements specifications for CDT students
+        - Liaison with module leaders
     - title: Mistral
       partner: School of Engineering
       year: 2019-2021
