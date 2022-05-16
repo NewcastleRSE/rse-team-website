@@ -2,7 +2,7 @@
 title: Becky Osselton
 layout: cv
 sections:
-  image: becky.png
+  image: BeckyOsselton.jpg
   email: rebecca.osselton@newcastle.ac.uk
   webpage: 
   role: Senior Research Software Engineer
