@@ -5,7 +5,7 @@ sections:
   image: becky.png
   email: rebecca.osselton@newcastle.ac.uk
   webpage: 
-  role: Research Software Engineer
+  role: Senior Research Software Engineer
   education:
     degree: MSc Computing Science
     university: Newcastle University
@@ -39,6 +39,15 @@ sections:
       - Art
       - Karate
   projects:
+    - title: CVPR-NAS 2022 
+      partner: School Of Computing
+      year: 2022
+      tasks: 
+        - competion website allows upload of machine learning code bundle
+        - back-end that accepts zip files and taransfer them to Azure
+        - Azure processes run to create a VM and run submitted code
+        - back-end updated with scores generated from ML code run
+        - competion website updated with latest score and shown on a leaderboard
     - title: Data Safe Haven
       partner: The Alan Turing Institute
       year: 2021-2022
@@ -92,7 +101,7 @@ sections:
         - game style application to measure user recognition of different languages
       
 ---
-Becky is a full stack web developer with many years of experience working in both the public and private sector. Becky was previously employed with the NHS developing a healthcare application to modernise clinical practice for the Newcastle upon Tyne Hospitals NHS Foundation Trust. 
+Becky is a full stack web developer with many years of experience working in both the public and private sector. She currently leads the technical developement of web mand mobile team. Becky was previously employed with the NHS developing a healthcare application to modernise clinical practice for the Newcastle upon Tyne Hospitals NHS Foundation Trust. 
 
 Since joining the university in 2019, she has designed and implemented software applications for a number of research projects.
 
