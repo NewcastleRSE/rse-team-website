@@ -101,7 +101,9 @@ sections:
         - game style application to measure user recognition of different languages
       
 ---
-Becky is a full stack web developer with many years of experience working in both the public and private sector. She currently leads the technical development of web and mobile team. Becky was previously employed with the NHS developing a healthcare application to modernise clinical practice for the Newcastle upon Tyne Hospitals NHS Foundation Trust. 
+Becky is a full stack web developer with many years of experience working in both the public and private sector. She currently leads the technical development of web and mobile team. 
+
+Becky was previously employed with the NHS developing a healthcare application to modernise clinical practice for the Newcastle upon Tyne Hospitals NHS Foundation Trust. 
 
 Becky is a Software Carpentries instructor and is teaching as part of the Institute of Coding programme. She is interested in inspiring young people and women to engage and seek careers in the technology sector. 
 
