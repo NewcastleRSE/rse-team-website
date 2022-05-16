@@ -75,7 +75,7 @@ sections:
         - Contribution to a wider paper on Urban Development Modelling and Digital Twins
     - title: Geospatial Engineering Centre for Doctoral Training (CDT)
       partner: School of Engineering
-      year: ongoing
+      year: 2019-2022
       tasks:
         - Software engineering support for MRes cohorts both at Newcastle and Nottingham
         - Mentoring  of students
