@@ -61,7 +61,7 @@ sections:
       tasks:
         - Building map-based visualisation of real-time positions of sensor-equipped animals on Hepple Estate
         - Enabling temporal navigation of data, plus download of positional data within time boundaries
-    - Flood Prepared
+    - title: Flood Prepared
       partner: School of Engineering
       year: 2021
       tasks:
