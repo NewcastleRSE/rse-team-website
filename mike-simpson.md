@@ -37,9 +37,17 @@ sections:
       - Photography
       - 3D Modelling
   projects:
+    - title: Synthetic Images for Machine Learning 
+      partner: Urban Observatory, TRACK (Transport Risk Assessment for COVID Knowledge) Project
+      year: 2022-2022
+      tasks:
+        - Modelling virtual transport vehicles in Blender
+        - Writing code to populate the vehicles with virtual passengers and render the results
+        - Train Machine Learning models with the synthetic images 
+        - Evaluate the effect of the training on the results
     - title: Precision Diabetes 
       partner: The Alan Turing Institute, British Heart Foundation, University of Exeter, University College London
-      year: 2021-
+      year: 2021-2022
       tasks:
         - Developing a classification tool to help select diabetes patients for trials and studies
         - Improving an existing diabetes treatment tool with additional information, including visualisation of risk
