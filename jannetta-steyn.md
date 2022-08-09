@@ -43,10 +43,15 @@ sections:
   projects:
     - title: Carpentries Workshops
       partner: Research Software Engineering
-      year: 2020 - 2021
+      year: 2020 - 2022
       tasks:
         - Organising Carpentries workshops
         - Instructing on workshops
+    - title: <a href="http://www.gaminggamblingresearch.org.uk/">Between Gaming and Gambling</a>
+      partner: Dr James Ash
+      year: 2022
+      tasks:
+        - Develop a web based game suitable for mobile and desktop to teach parents and children about the mechanics of lootboxes.
     - title: <a href="https://wallcap.ncl.ac.uk/">WallCap</a>
       partner: Hadrian's Wall Community Archeology Project
       year: 2021
