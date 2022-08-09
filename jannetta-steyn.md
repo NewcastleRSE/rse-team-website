@@ -43,7 +43,7 @@ sections:
   projects:
     - title: Carpentries Workshops
       partner: Research Software Engineering
-      year: 2020 - 2022
+      year: 2020 - present
       tasks:
         - Organising Carpentries workshops
         - Instructing on workshops
@@ -59,7 +59,7 @@ sections:
         - Develop and deploy a web application to be used by volunteers for capturing data about stones that are or were part of Hadrian's wall
     - title: Learning Machines
       partner: Alan Turing Institute
-      year: 2019 - 2021
+      year: 2019 - present
       tasks:
         - Dockerising of Learning Machines environment
         - Develop REST API in Java to serve data from models to a GUI
