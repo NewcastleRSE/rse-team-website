@@ -42,11 +42,30 @@ sections:
   projects:
     - title: TRACK
       partner: School of Computing
-      year: 2021-2021
+      year: 2020-2021
       tasks:
         - Data annotation and data analysis
         - Developing frameworks for person detection in public transportation images using machine learning
         - Investigating solutions for automated social distancing measures
+    - title: Mouse MApp
+      partner: School of Natural and Environmental Sciences
+      year: 2021-2022
+      tasks:
+        - Image processing and Image Analysis
+        - Comparing image classification algorithm based on body condition score
+        - Integrating the model and weight with web apps for end-user
+    - title: Auto Generation of Optimal Deep Learning Networks
+      partner: School of Computing
+      year: 2021-2022
+      tasks:
+        - Creating the framework for Neural Architecture Search pipeline
+        - Testing the framework with different image dataloader, image transform and creating mock NAS for the testing
+        - Getting Involved in the CVPR NAS workshop
+    - title: Integrated Multi-Modal Tissue State Mapping of Triple Negative Breast Cancer Progression
+      partner: School of Computing
+      year: 2022-2022
+      tasks:
+        - Understanding the different modalities for cancer imaging (IMC, LA-ICP-MS and Spatial Transcriptomics)
     
 ---
 Nik joined the team from Durham University where she was a PhD student focusing upon a multidisciplinary study combining the fields of Machine Learning (ML) and Brain-Computer Interfaces (BCI), covering areas including signal recognition, object detection and adversarial learning. Prior to that, Nik worked in the aviation and home-automation industries, as well as getting a Masters from South Korea. 
