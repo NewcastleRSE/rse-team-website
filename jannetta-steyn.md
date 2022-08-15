@@ -41,12 +41,12 @@ sections:
       - Raspberry Pi
       - Tae Kwon Do, Karate
   projects:
-    - title: CaprentriesOffline SSI Fellowship 2022
+    - title: <a href="https://www.software.ac.uk/about/fellows/jannetta-steyn">CaprentriesOffline SSI Fellowship 2022</a>
       partner: Software Sustainability Institute
       year: 2022
       tasks:
         - Creating an infrastructure, using Raspberry Pi computers, for delivering <a href="https://carpentries.org">Carpentries</a> workshops offline.      
-    - title: Carpentries Workshops
+    - title: <a href="https://carpentries.ncldata.dev/">Carpentries Workshops</a>
       partner: Research Software Engineering
       year: 2020 - present
       tasks:
