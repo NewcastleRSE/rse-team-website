@@ -41,6 +41,11 @@ sections:
       - Raspberry Pi
       - Tae Kwon Do, Karate
   projects:
+    - title: CaprentriesOffline SSI Fellowship 2022
+      partner: Software Sustainability Institute
+      year: 2022
+      tasks:
+        - Creating and infrastructure, using Raspberry Pi computers, for delivering [Carpentries](https://carpentries.org) workshops offline.      
     - title: Carpentries Workshops
       partner: Research Software Engineering
       year: 2020 - present
