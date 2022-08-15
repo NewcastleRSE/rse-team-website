@@ -45,7 +45,7 @@ sections:
       partner: Software Sustainability Institute
       year: 2022
       tasks:
-        - Creating and infrastructure, using Raspberry Pi computers, for delivering [Carpentries](https://carpentries.org) workshops offline.      
+        - Creating an infrastructure, using Raspberry Pi computers, for delivering <a href="https://carpentries.org">Carpentries</a> workshops offline.      
     - title: Carpentries Workshops
       partner: Research Software Engineering
       year: 2020 - present
