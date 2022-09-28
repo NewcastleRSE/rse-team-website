@@ -94,6 +94,6 @@ sections:
           initial results 
 
 ---
-Dr. Frances Hutchings has worked as a Research Software Engineer for the Digital Institute since June 2019. She first joined Newcastle University in 2013 to study for a Masters in Neuroinformatics, which led to a PhD and then RA positions based in the School of Computing with a focus on applying computational solutions to neuroscience questions.
+Dr. Frances Turner (née Hutchings) has worked as a Research Software Engineer for the Digital Institute since June 2019. She first joined Newcastle University in 2013 to study for a Masters in Neuroinformatics, which led to a PhD and then RA positions based in the School of Computing with a focus on applying computational solutions to neuroscience questions.
 
 During her tenure as a Research Software Engineer Frances has qualified as a Software Carpentries Instructor and has been able to develop computational solutions to a wide variety of projects from across all three faculties, picking up skills in machine learning, data science and user interface design.
