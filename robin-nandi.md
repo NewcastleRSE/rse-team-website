@@ -8,7 +8,7 @@ sections:
   role: Research Software Engineer
   education:
     degree: PhD Physics
-    university: Impaerial College
+    university: Imperial College
     years: 2008-2012
     description: Particle Physics research at CERN
   skills:
