@@ -45,7 +45,7 @@ sections:
         - Adding new features to the Colouring London application/website
         - Working on creating of a Colouring Cities shared codebase
         - Collaborating with other international groups to add to the Colouring Cities projects
-  - title: RSA Journal Data Analysis
+    - title: RSA Journal Data Analysis
       partner: Professor Rachel Franklin
       year: 2022-
       tasks:
