@@ -39,7 +39,7 @@ sections:
       - Art
       - Karate
   projects:
-   - title: ePRaSE (phase 2)
+    - title: ePRaSE (phase 2)
       partners: Newcastle upon Tyne NHS Hospitals Foundation Trust, NHS England
       year: 2022-ongoing
       tasks:
