@@ -2,7 +2,7 @@
 title: Becky Osselton
 layout: cv
 sections:
-  image: BeckyOsselton.jpg
+  image: Becky.jpg
   email: rebecca.osselton@newcastle.ac.uk
   webpage: 
   role: Senior Research Software Engineer
@@ -39,6 +39,12 @@ sections:
       - Art
       - Karate
   projects:
+    - title: ePRaSE (phase 2)
+      partners: Newcastle upon Tyne NHS Hospitals Foundation Trust, NHS England
+      year: 2022-ongoing
+      tasks:
+        - back-end redevelopment using Strapi
+        - front-end development using Vue.js  
     - title: CVPR-NAS 2022 
       partner: School Of Computing
       year: 2022
@@ -81,7 +87,7 @@ sections:
         - Creation of Aphasia assessment tool for use by Speech and Language Therapists
         - Front end application that creates online reports and downloadable PDFs
         - Built with Vue.js
-    - title: ePRaSE
+    - title: ePRaSE (phase 1)
       partner: Newcastle upon Tyne Hospitals Trust
       year: 2019-2021
       tasks:
