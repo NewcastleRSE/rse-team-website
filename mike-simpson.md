@@ -38,7 +38,7 @@ sections:
       - Photography
       - 3D Modelling
   projects:
-	- title: Colouring Cities
+    - title: Colouring Cities
       partner: Alan Turing Institute, Colouring Cities Research Programme
       year: 2022-
       tasks:
@@ -51,7 +51,7 @@ sections:
       tasks:
         - Analysis of RSE Jorunal Data between 2018 and 2020 to study the effect of hte pandemic on publications by female academics.
         - Creating visualisations of the results of the analysis.
-	- title: DOLFIN
+    - title: DOLFIN
       partner: Newcastle University School of , Newcastle upon Tyne Hospitals (NHS Foundation Trust), Oxford University NPEU
       year: 2022-2022
       tasks:
