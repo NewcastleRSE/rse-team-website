@@ -9,8 +9,8 @@ sections:
   education:
     degree: PhD Energy
     university: Newcastle University
-    years: 2015-2021
-    description: Modelling and analysis of integrated multi-domain energy systems and networks
+    years: 2015-2022
+    description: Bond graph modelling of exergy in integrated energy systems
 
   skills:
     programming:
@@ -37,17 +37,29 @@ sections:
       - Data processing and analysis
       - Visualisation
     interests:
-      - Video and board games
       - Drumming
       - Golf
+      - Video and board games
       - Modelmaking and minifigure painting
   projects:
+    - title: EARTH database / MSK-RADAR
+      partner: Newcastle University Medical School / Newcastle upon Tyne Hospitals NHS Foundation Trust
+      year: 2022 - present
+      tasks:
+        - Re-engineering existing Earth ARTHritis (EARTH) database
+        - Development of process to integrate externally-recorded rheumatology patient health scores into the Trust's patient record
     - title: PYRAMID
       partner: Newcastle University School of Engineering
-      year: 2021
+      year: 2021 - 2023
       tasks:
         - Visualisation of flood risk information from hydrodynamic simulation
         - Data pipeline and tools component integration / architecture
+    - title: Institute of Coding Degree Apprenticeship course CSC8427
+      partner: Newcastle University School of Computing
+      year: 2022
+      tasks:
+        - Teaching on the Introduction to Software Engineering Module
+        - In-class lecturing, and development of teaching and assignment materials
     - title: CNNP Epilepsy Database
       partner: Newcastle University School of Computing CNNP Lab
       year: 2021
@@ -56,4 +68,4 @@ sections:
         - Azure storage of linked patient monitoring and scan data
 
 ---
-Robin joined the Research Software Engineering team in May 2021, on completing a PhD in Energy at Newcastle University. He graduated with a Masters in Electro-mechanical Engineering from Manchester University, and has additionally worked as an RA in Newcastle University's School of Engineering on energy systems demonstrator and modelling projects, including in collaboration with the Centre for Energy Systems Integration. He has also worked extensively in industry, principally in scientific and simulation software environments, and has significant project management experience in both industrial and university contexts. Robin is training to be a Software Carpentries Instructor and to deliver Degree Apprenticeship modules in collaboration with the Institute of Coding.
+Robin joined the Research Software Engineering team in May 2021, on completing a PhD in Energy at Newcastle University. He graduated with a Masters in Electro-mechanical Engineering from Manchester University, and has additionally worked as an RA in Newcastle University's School of Engineering on energy systems demonstrator and modelling projects, including in collaboration with the Centre for Energy Systems Integration. He has also worked extensively in industry, principally in scientific and simulation software environments, and has significant project management experience in both industrial and university contexts. As well as developing data and software solutions for research, Robin is a qualified Software Carpentries Instructor and also teaches Degree Apprenticeship modules in collaboration with the Institute of Coding.
