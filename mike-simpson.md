@@ -49,10 +49,10 @@ sections:
       partner: Professor Rachel Franklin
       year: 2022-
       tasks:
-        - Analysis of RSE Jorunal Data between 2018 and 2020 to study the effect of hte pandemic on publications by female academics.
+        - Analysis of RSA Journal Data between 2018 and 2020 to study the effect of hte pandemic on publications by female academics.
         - Creating visualisations of the results of the analysis.
     - title: DOLFIN
-      partner: Newcastle University School of , Newcastle upon Tyne Hospitals (NHS Foundation Trust), Oxford University NPEU
+      partner: Professor Jeremy Parr, Newcastle upon Tyne Hospitals (NHS Foundation Trust), Oxford University NPEU
       year: 2022-2022
       tasks:
         - Development of an Android/iOS app to collect data for a Clinical Trial
@@ -75,7 +75,7 @@ sections:
       year: 2021-2022
       tasks:
         - Adding the ability to change language in a Unity game that was previously developed in English.
-        - Tested by adding Spanish and Chinese as languages to the game.    
+        - Tested by adding Spanish and Chinese as languages to the game.
     - title: Precision Diabetes 
       partner: The Alan Turing Institute, British Heart Foundation, University of Exeter, University College London
       year: 2021-2022
