@@ -38,6 +38,19 @@ sections:
       - Photography
       - 3D Modelling
   projects:
+    - title: Colouring Cities
+      partner: Alan Turing Institute, Colouring Cities Research Programme
+      year: 2022-2022
+      tasks:
+        - Adding new features to the Colouring London application/website
+        - Working on creating of a Colouring Cities shared codebase
+        - Collaborating with other international groups to add to the Colouring Cities projects
+    - title: RSA Journal Data Analysis
+      partner: Professor Rachel Franklin
+      year: 2022-2022
+      tasks:
+        - Analysis of RSA Journal Data between 2018 and 2020 to study the effect of hte pandemic on publications by female academics.
+        - Creating visualisations of the results of the analysis.
     - title: Synthetic Images for Machine Learning 
       partner: Urban Observatory, TRACK (Transport Risk Assessment for COVID Knowledge) Project
       year: 2022-2022
