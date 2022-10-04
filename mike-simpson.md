@@ -70,12 +70,6 @@ sections:
       tasks:
         - Analysis of student uptake of Microsoft Certification and other optional training course.
         - Visualisation of the results in Power BI, including the impact of the training courses on other results.
-    - title: 'Asteroid' Translations
-      partner: Jenny Read, Newcastle University Faculty of Medical Sciences
-      year: 2021-2022
-      tasks:
-        - Adding the ability to change language in a Unity game that was previously developed in English.
-        - Tested by adding Spanish and Chinese as languages to the game.
     - title: Precision Diabetes 
       partner: The Alan Turing Institute, British Heart Foundation, University of Exeter, University College London
       year: 2021-2022
