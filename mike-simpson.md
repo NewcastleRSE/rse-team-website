@@ -51,6 +51,11 @@ sections:
       tasks:
         - Analysis of RSA Journal Data between 2018 and 2020 to study the effect of hte pandemic on publications by female academics.
         - Creating visualisations of the results of the analysis.
+    - title: DOLFIN
+      partner: Professor Jeremy Parr, Newcastle upon Tyne Hospitals (NHS Foundation Trust), Oxford University NPEU
+      year: 2022-2022
+      tasks:
+        - Development of an Android/iOS app to collect data for a Clinical Trial
     - title: Synthetic Images for Machine Learning 
       partner: Urban Observatory, TRACK (Transport Risk Assessment for COVID Knowledge) Project
       year: 2022-2022
@@ -59,6 +64,18 @@ sections:
         - Writing code to populate the vehicles with virtual passengers and render the results
         - Train Machine Learning models with the synthetic images 
         - Evaluate the effect of the training on the results
+    - title: Business School Microsoft Certification Analysis
+      partner: Gill Holden, Newcastle University Business School
+      year: 2022-2022
+      tasks:
+        - Analysis of student uptake of Microsoft Certification and other optional training course.
+        - Visualisation of the results in Power BI, including the impact of the training courses on other results.
+    - title: 'Asteroid' Translations
+      partner: Jenny Read, Newcastle University Faculty of Medical Sciences
+      year: 2021-2022
+      tasks:
+        - Adding the ability to change language in a Unity game that was previously developed in English.
+        - Tested by adding Spanish and Chinese as languages to the game.
     - title: Precision Diabetes 
       partner: The Alan Turing Institute, British Heart Foundation, University of Exeter, University College London
       year: 2021-2022
