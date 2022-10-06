@@ -44,13 +44,13 @@ sections:
   projects:
     - title: EARTH database / MSK-RADAR
       partner: Newcastle University Medical School / Newcastle upon Tyne Hospitals NHS Foundation Trust
-      year: 2022 - present
+      year: 2022-present
       tasks:
         - Re-engineering existing Earth ARTHritis (EARTH) database
         - Development of process to integrate externally-recorded rheumatology patient health scores into the Trust's patient record
     - title: PYRAMID
       partner: Newcastle University School of Engineering
-      year: 2021 - 2023
+      year: 2021-2023
       tasks:
         - Visualisation of flood risk information from hydrodynamic simulation
         - Data pipeline and tools component integration / architecture
