@@ -2,7 +2,7 @@
 title: Bowen Li
 layout: cv
 sections:
-  image: bowen.png
+  image: bowen.jpg
   email: bowen.li2@ncl.ac.uk
   webpage: 
   role: Research Software Engineer
@@ -36,7 +36,7 @@ sections:
       partner: School of Natural and Environmental Sciences
       year: 2022-2023
       tasks:
-        - Image classification to estimate the weight of cows
+        - Image classification to estimate the weight of cattle
     
 ---
 Bowen Li joined the team in October 2022 with the background in computational modelling, including both theory
