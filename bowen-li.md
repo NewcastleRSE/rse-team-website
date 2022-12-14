@@ -37,16 +37,17 @@ sections:
       partner: School of Natural and Environmental Sciences
       year: 2022-2023
       tasks:
-	- Image/video processing 
+        - Image/Video processing
         - Image classification to estimate the weight of cattle
     - title: Synthetic Data Sandpit (PrivE)
       partner: Alan Turing Institute
       year: 2022-2023
       tasks:
-	- Extending [Tapas](https://github.com/alan-turing-institute/privacy-sdg-toolbox) toolbox with generic classes to manipulate network data
-	- Developing and implementing methods for privacy attacks against synthetic network 
-	
-    
+        - Extending [Tapas](https://github.com/alan-turing-institute/privacy-sdg-toolbox) toolbox 
+          with generic classes to manipulate network data
+        - Developing and implementing methods for privacy attacks against synthetic network 
+
+
 ---
 Bowen Li joined the team in October 2022. His background centres on computational modelling, including both theory
 and application. He has many years experience in research software development. Li received his
@@ -56,6 +57,4 @@ During his RA career, Li was the main developer of open-source scientific softwa
 [NUFEB](http://github.com/nufeb) (Massively parallel simulator for agent-based modelling of microbial systems);
 [SONCraft](https://workcraft.org) (GUI-based platform for CES modelling and analysis); and
 [mcSTACK](https://github.com/shelllbw/mcSTACK) (Probabilistic model checker for DNA nano-device model).
-
-
 
