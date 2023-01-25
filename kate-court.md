@@ -35,6 +35,16 @@ sections:
       - Printmaking
       - Walking
   projects:
+    - title: Organ Quality Assessment (OrQA)
+      partner: Newcastle Hospitals NHS Foundation Trust, NHS Blood & Transplant
+      year: 2023
+      tasks:
+        - Technical lead for the OrQA project that explores the potential for machine learning models to assist surgical decision making when assessing whether an organ is worth considering for transplant.
+    - title: Autism Clinical Interview for Adults (ACIA)
+      partner: Faculty of Medical Sciences
+      year: 2023
+      tasks:
+        - Create interactive PDFs to support diagnostic assessments.
     - title: NUAcT Development Programme
       partner: Newcastle University Academic Track Fellowship scheme
       year: 2021-2022
