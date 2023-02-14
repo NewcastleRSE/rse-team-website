@@ -1,1 +1,4 @@
 name: Research Software Engineering
+collections:
+  team:
+    output: true

@@ -7204,6 +7204,10 @@ figcaption {
   transform: scale3d(0.98, 0.98, 1.01);
 }
 
+.header-logo {
+  height: 40px;
+}
+
 .hamburger-menu-wrapper {
   padding: 0px;
   -webkit-transform-style: preserve-3d;

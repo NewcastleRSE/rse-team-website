@@ -5,7 +5,7 @@ sections:
   image: Becky.jpg
   email: rebecca.osselton@newcastle.ac.uk
   webpage: 
-  role: Senior Research Software Engineer
+  role: Head of Web & Mobile
   education:
     degree: MSc Computing Science
     university: Newcastle University

@@ -5,7 +5,7 @@ sections:
   image: kate.png
   email: kate.court@ncl.ac.uk
   webpage: 
-  role: Senior Research Software Engineer
+  role: Head of Middleware & Data Science
   education:
     degree: PhD Design
     university: Edinburgh University
