@@ -2,7 +2,6 @@
 <!--  Last Published: Sun Feb 12 2023 13:44:49 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="63dbbe340a7bc07186d9a783" data-wf-site="63dbbe340a7bc0aa9ed9a71c">
 {% include header.html %}
-
 <body>
     <div class="page-wrapper">
         {% include navbar.html %}
@@ -19,9 +18,8 @@
                                             class="mg-bottom-32px">
                                             <div class="inner-container _100px center">
                                                 <div class="inner-container _83px---mbl center">
-                                                    <div class="image-wrapper border-radius-28px"><img
-                                                            src="https://assets.website-files.com/62b38c698569741f3afc8ebd/62c4a79db6c7165ca880a673_icon-6-help-center-categories-starup-template.svg"
-                                                            loading="eager" alt="Getting started" class="image cover">
+                                                    <div class="image-wrapper border-radius-28px" style="background-color: #ffca43">
+                                                        <i class="display-1 las la-calendar" style="color: white; margin: 14px 0;"></i>
                                                     </div>
                                                 </div>
                                             </div>
@@ -39,46 +37,67 @@
                         <div data-w-id="83b36513-e291-495f-fa0a-b2e94ca90574"
                             style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
                             class="w-dyn-list">
+                            {% capture now %}{{ "now" | date: "%s" | plus: 0 }}{% endcapture %}
                             <div role="list" class="grid-1-column gap-row-24px w-dyn-items">
+                                {% for event in site.data.events %}
+                                {% assign timestamp = event.date | date: "%s" %}
+                                {% assign linkTitle = event.title | replace: " ", "-" | downcase %}
+                                {% assign linkDate = event.date | date: "%d-%m-%Y" %}
+                                {% assign link = linkTitle | append: '-' | append: linkDate %}
+                                {% if timestamp > now %}
                                 <div role="listitem" class="w-dyn-item"><a
-                                        data-w-id="985a1a00-2c5e-2f6d-7e76-969769be876b"
-                                        href="/help-center-article/how-to-create-a-free-starup-account"
-                                        class="card link-card help-center-post w-inline-block">
-                                        <div class="card-help-center-post-wrapper">
-                                            <div class="card-help-center-post-content">
-                                                <h2 class="display-4 mg-bottom-8px">How to create a free StarUp account?
-                                                </h2>
-                                                <p class="mg-bottom-24px">Lorem ipsum dolor sit amet consectetur
-                                                    adipiscing elit adipiscing et dolor sit imperdiet cursus diam
-                                                    pellentesque velit lobortis consectetur.</p>
-                                                <div class="link-wrapper">
-                                                    <div class="link-text">More</div>
-                                                    <div class="line-rounded-icon link-icon-right"></div>
-                                                </div>
-                                            </div>
-                                            <div class="card-help-center-post-author-wrapper">
-                                                <div class="inner-container _64px card-help-center-post-author-avatar">
-                                                    <div class="image-wrapper image-circle"><img
-                                                            src="https://assets.website-files.com/62b38c698569741f3afc8ebd/62b4f4d5910aad15a28f612a_avatar-2-team-starup-template.jpg"
-                                                            loading="eager" alt="Sophie Moore" class="image cover">
-                                                    </div>
-                                                </div>
-                                                <div class="card-help-center-post-author-content">
-                                                    <div class="mg-bottom-8px">
-                                                        <div class="text-200 bold color-neutral-800">Sophie Moore</div>
-                                                    </div>
-                                                    <div class="text-200 medium">Jul 5, 2022</div>
-                                                </div>
+                                    data-w-id="985a1a00-2c5e-2f6d-7e76-969769be876b"
+                                    data-date="{{ timestamp }}"
+                                    href="{{ link }}"
+                                    class="card link-card help-center-post w-inline-block">
+                                    <div class="card-help-center-post-wrapper">
+                                        <div class="card-help-center-post-content">
+                                            <h2 class="display-4 mg-bottom-8px">{{event.title}}
+                                            </h2>
+                                            <h5 class="mg-bottom-8px">{{event.date}}
+                                            </h5>
+                                            <h6 class="mg-bottom-8px">{{event.location}}
+                                            </h6>
+                                            <p class="mg-bottom-24px">{{event.description}}</p>
+                                            <div class="link-wrapper">
+                                                <div class="link-text">More</div>
+                                                <div class="line-rounded-icon link-icon-right"></div>
                                             </div>
                                         </div>
-                                    </a>
-                                </div>
+                                        <div class="card-help-center-post-author-wrapper">
+                                            {% if event.type == 'Code Community' %}
+                                            <div class="inner-container card-help-center-post-author-avatar">
+                                                <div class="image-wrapper image-circle" style="margin: 0 auto 20px; background-color: #15c6b4; text-align: center; width:100px; height:100px">
+                                                    <i class="display-1 las la-users" style="color: white; margin: 14px 0;"></i>
+                                                </div>
+                                                <h6 style="text-align: center;">Code Community</h6>
+                                            </div>
+                                            {% elsif event.type == 'Training' %}
+                                            <div class="inner-container card-help-center-post-author-avatar">
+                                                <div class="image-wrapper image-circle" style="margin: 0 auto 20px; background-color: #4b84ff; text-align: center; width:100px; height:100px">
+                                                    <i class="display-1 las la-chalkboard-teacher" style="color: white; margin: 14px 0;"></i>
+                                                </div>
+                                                <h6 style="text-align: center;">Training Workshop Training</h6>
+                                            </div>
+                                            {% else %}
+                                            <div class="inner-container card-help-center-post-author-avatar">
+                                                <div class="image-wrapper image-circle" style="margin: 0 auto 20px; background-color: #ff6871; text-align: center; width:100px; height:100px">
+                                                    <i class="display-1 las la-calendar" style="color: white; margin: 14px 0;"></i>
+                                                </div>
+                                                <h6 style="text-align: center;">Other</h6>
+                                            </div>
+                                            {% endif %}
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            {% endif %}
+                                {% endfor %}
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="position-absolute help-center-category-bg"></div>
         </div>
         {% include footer.html %}
     </div>

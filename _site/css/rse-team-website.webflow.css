@@ -4815,8 +4815,12 @@ figcaption {
   max-width: 64px;
 }
 
-.inner-container._64px.card-help-center-post-author-avatar {
-  margin-right: 10px;
+.inner-container.card-help-center-post-author-avatar {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 200px;
+  max-width: 200px;
 }
 
 .inner-container._74px {
