@@ -11,7 +11,7 @@ page_gen:
   name_expr: record['title'] + "-" + Date.parse(record['date']).strftime("%d-%m-%Y")
   title: title
   extension: md
-  filter_condition: Date.parse(record['date']).strftime("%s").to_i > Time.now.to_i
+  # filter_condition: Date.parse(record['date']).strftime("%s").to_i > Time.now.to_i
 
 collections:
   team:
