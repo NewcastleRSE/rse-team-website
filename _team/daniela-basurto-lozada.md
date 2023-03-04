@@ -5,7 +5,7 @@ sections:
   image: daniela-basurto-lozada.webp
   email: dave.horsfall@ncl.ac.uk
   webpage: 
-  role: Senior Research Software Engineer
+  role: Research Software Engineer
   education:
     degree: MSci Theoretical Physics
     university: University of Durham
