@@ -4819,8 +4819,12 @@ figcaption {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  width: 200px;
-  max-width: 200px;
+  width: 75px;
+  max-width: 75px;
+}
+
+.card-help-center-post-author-content {
+  padding: 20px 0;
 }
 
 .inner-container._74px {
@@ -13778,6 +13782,8 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  flex-direction: column;
+  align-self: center;
 }
 
 .card-help-center-post-wrapper {
