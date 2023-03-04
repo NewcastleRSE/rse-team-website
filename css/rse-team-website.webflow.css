@@ -12077,6 +12077,19 @@ figcaption {
   grid-row-gap: 24px;
 }
 
+.logo-strip-v1-wrapper-logos .service-header {
+  display: flex;
+  width: 200px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  text-decoration: none;
+}
+
+.logo-strip-v1-wrapper-logos .service-header i {
+  font-size: 96px;
+}
+
 .border-radius-14px {
   border-radius: 14px;
 }
@@ -14213,11 +14226,6 @@ figcaption {
     grid-column-gap: 100px;
     -ms-grid-columns: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
-  }
-
-  .card.logo-strip-v1-card-wrapper {
-    padding-top: 132px;
-    padding-bottom: 132px;
   }
 
   .divider._0px {
