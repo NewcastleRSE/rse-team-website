@@ -1,4 +1,0 @@
----
-title: DOLFIN
-layout: project
----
