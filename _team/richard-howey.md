@@ -10,7 +10,7 @@ sections:
     degree: PhD Pure Mathematics
     university: Newcastle University
     years: 1997-2000
-    description: Completed a PhD in functional analysis entitled 'Approximately Multiplicative Maps between some Banach Algebras'
+    description: Completed a PhD in functional analysis entitled "Approximately Multiplicative Maps between some Banach Algebras"
   skills:
     programming:
       - C++
