@@ -4819,8 +4819,8 @@ figcaption {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  width: 75px;
-  max-width: 75px;
+  width: 100px;
+  max-width: 100px;
 }
 
 .card-help-center-post-author-content {
