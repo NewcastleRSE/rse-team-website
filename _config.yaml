@@ -1,1 +1,28 @@
 name: Research Software Engineering
+
+plugins:
+  - jekyll-datapage-generator
+
+page_gen:
+- data: events
+  template: event
+  dir: events
+  index_files: false
+  name_expr: record['title'] + "-" + Date.parse(record['date']).strftime("%d-%m-%Y")
+  title: title
+  extension: md
+- data: projects
+  template: project
+  dir: projects
+  index_files: false
+  name: title
+  title: title
+  extension: md
+
+collections:
+  team:
+    output: true
+  projects:
+    output: true
+  events:
+    output: true
