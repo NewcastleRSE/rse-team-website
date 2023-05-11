@@ -10,7 +10,7 @@ sections:
     degree: PhD Pure Mathematics
     university: Newcastle University
     years: 1997-2000
-    description: Completed a PhD in functional analysis entitled 'Approximately Multiplicative Maps between some Banach Algebras'
+    description: Completed a PhD in functional analysis entitled "Approximately Multiplicative Maps between some Banach Algebras"
   skills:
     programming:
       - C++
@@ -42,7 +42,7 @@ sections:
       year: 2022-2026
       tasks:
         - Development of advanced statistical methodology and accompanying software for elucidating relationships between genotype and phenotype.
-    - title: Sjögren's Registry Database
+    - title: SjÃ¶gren's Registry Database
       partner: Newcastle upon Tyne Hospitals NHS Foundation Trust
       year: 2023-2024
       tasks:
