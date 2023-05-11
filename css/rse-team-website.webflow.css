@@ -7835,6 +7835,16 @@ figcaption {
   justify-content: center;
 }
 
+.contact-form-left-side .key-person {
+  margin-bottom: 40px;
+}
+
+.contact-form-left-side .key-person h3,
+.contact-form-left-side .key-person h5 {
+  margin-bottom: 5px;
+  font-weight: normal;
+}
+
 .contact-form-right-side {
   padding: 88px 20px;
   border-top-right-radius: 24px;
