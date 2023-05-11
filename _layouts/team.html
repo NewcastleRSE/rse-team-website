@@ -1,0 +1,102 @@
+<!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
+<!--  Last Published: Sun Feb 12 2023 13:44:49 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="63dbbe340a7bc093ebd9a844" data-wf-site="63dbbe340a7bc0aa9ed9a71c">
+{% include header.html %}
+
+<body>
+  <div class="page-wrapper">
+    {% include navbar.html %}
+    <div class="section team wf-section">
+      <div class="container-default w-container">
+        <div class="inner-container _500px---mbl center mg-bottom-152px">
+          <div class="position-relative z-index-1">
+            <div class="position-relative z-index-1">
+              <div class="mg-bottom-120px">
+                <div class="inner-container _625px center">
+                  <div class="text-center">
+                    <h1 data-w-id="4701d849-c2d7-bee1-7c65-6fb23ddd29b5"
+                      style="transform: translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
+                      class="display-1 mg-bottom-6px">Meet our <span class="image-text-undeline v4">team</span></h1>
+                    <p data-w-id="07bbfc9a-93b0-495a-7e3a-1cd85cc3e1f4"
+                      style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
+                      class="mg-bottom-24px">We cover a wide range of programming languages, software engineering, and data science expertise.</p>
+                    <!-- <div data-w-id="763ccdfb-c4d3-4e52-a4c0-dcd5b3db2eee"
+                      style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
+                      class="buttons-row center"><a href="/careers" class="btn-primary w-button">Join our team</a></div> -->
+                  </div>
+                </div>
+              </div>
+              <div data-w-id="aa9c0502-0375-4984-631f-2d7f4e312c1c"
+                style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
+                class="w-dyn-list">
+                <div role="list" class="grid-3-columns gap-row-40px w-dyn-items">
+
+                  {% for team_member in site.team %}
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="card team-item">
+                      <div class="mg-bottom-38px"><a href="/team/{{team_member.title | downcase | replace: " ", "-"}}"
+                          class="image-wrapper border-radius-24px w-inline-block"><img
+                            src="/images/team/{{ team_member.sections.image }}" loading="eager"
+                            alt="{{team_member.title}}" class="image cover"
+                            style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"></a>
+                      </div>
+                      <div class="card-team-content"><a href="/team/{{team_member.title | downcase | replace: " ", "-"}}" class="content-link-block card-team w-inline-block">
+                          <h3 class="display-4 mg-bottom-6px">{{team_member.title}}</h3>
+                          <div class="text-200 medium">{{team_member.sections.role}}</div>
+                        </a>
+                        <div class="w-layout-grid social-media-icons-grid card-team-item"><a
+                            href="mailto:{{team_member.sections.email}}" class="social-media-icon-link w-inline-block">
+                            <div class="social-icon-font"></div>
+                          </a><a href="{{team_member.sections.webpage}}" class="social-media-icon-link w-inline-block">
+                            <div class="social-icon-font"></div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  {% endfor %}
+                </div>
+              </div>
+              <div data-w-id="12727991-8af9-d504-eaae-382ddc36d5b0"
+                style="transform: translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
+                class="position-absolute team-members-shape---01">
+                <div class="image-wrapper shape-animation"
+                  style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+                  <img
+                    src="https://assets.website-files.com/62b38c698569747d49fc8e96/62bdcc1804b51e621f19d66f_shape-1-contact-form-v1-starup-template.svg"
+                    loading="eager" alt="" class="image">
+                </div>
+              </div>
+              <div data-w-id="22356c4f-29f8-6e18-2100-87de92921036"
+                style="transform: translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
+                class="position-absolute team-members-shape---02">
+                <div class="image-wrapper shape-animation"
+                  style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+                  <img
+                    src="https://assets.website-files.com/62b38c698569747d49fc8e96/62bb98259379f8134fcc1033_shape-1-press-starup-template.svg"
+                    loading="eager" alt="" class="image">
+                </div>
+              </div>
+              <div data-w-id="f0fc8daf-b72e-7a27-e30d-009ef61a481d"
+                style="transform: translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
+                class="position-absolute team-members-shape---03">
+                <div class="image-wrapper shape-animation"
+                  style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(2deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+                  <img
+                    src="https://assets.website-files.com/62b38c698569747d49fc8e96/62be41f0737d20a2c944cbe6_shape-1-contact-form-v3-starup-template.svg"
+                    loading="eager" alt="" class="image">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="position-absolute team-bg"></div>
+      </div>
+      {% include footer.html %}
+    </div>
+  </div>
+  {% include loader.html %}
+  {% include scripts.html %}
+</body>
+
+</html>

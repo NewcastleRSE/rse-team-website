@@ -5,13 +5,26 @@ To edit the details on your staff page, simply update `your-name.md` and commit.
 
 ## Local Development
 
-The site is a simple static HTML, CSS & JS site so any lightweight webserver can run it. Examples using NodeJS and Python are below.
 
-```bash
-npm install http-server -g
-http-server -a localhost -p 80
-```
+This site requires Ruby and Jekyll to run locally. [Jekyll quickstart docs](https://jekyllrb.com/docs/)
 
-```bash
-python3 -m http.server
-```
+First install Ruby as Jekyll is a Gemfile. 
+[Installing Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+
+Then install the bundler package.
+
+
+```gem install jekyll bundler```
+
+Next initialise bundler. This writes a gemfile (if needed).
+
+
+```bundle init```
+
+Then add the Jeykll gem.
+
+```bundle add jekyll```
+
+Run the webserver at: locahost:4000
+
+```bundle exec jekyll serve```  

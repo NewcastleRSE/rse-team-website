@@ -1,129 +1,148 @@
-<!DOCTYPE html>
-<!-- saved from url=(0022)https://jghatarora.me/ -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{{page.title}}</title>
-	<link rel="icon" type="image/png" href="images/favicon.ico">
-    <link href="css/fontawesome-all.css" rel="stylesheet">
-	<link media="all" rel="stylesheet" href="../css/main.css">
-	<link media="all" rel="stylesheet" href="../css/wyu7uqe.css">
-</head>
-<body data-new-gr-c-s-check-loaded="14.1010.0" data-gr-ext-installed="">
-	<div id="wrapper">
-		<header id="sidebar">
-			<h2><a href="/"><i class="fas fa-arrow-left"></i>&nbsp;Back</a></h2>
-			<div class="logo">
-					<img src="../images/{{page.sections.image | textualize}}" alt="{{page.title}}" width="400" height="400">
-			</div>
-			<ul class="sidebar-info-list">
-				<li>
-					<div class="dt">name</div>
-					<div class="dd">{{page.title}}
-					</div>
-				</li>
-				<li>
-					<div class="dt">role</div>
-					<div class="dd">{{page.sections.role | textualize}}</div>
-				</li>
-				<li>
-					<div class="dt">email</div>
-					<div class="dd"><a href="mailto:{{page.sections.email | textualize}}" class="link">{{page.sections.email | textualize}}</a></div>
-				</li>
-			</ul>
-		</header>
-		<main id="main">
-			<div class="two-columns">
-				<div class="col col-1">
-					<div class="info-box">
-						<h2 class="h2">about</h2>
-						<div class="text-box">
-							{{content}}
-						</div>
-					</div>
-					<div class="info-box">
-						<h2 class="h2">PROJECTS</h2>
-						<ul class="timeline-list">
-							{% for project in page.sections.projects %}
-							<li>
-								<h3 class="h3"><strong>{{project.title}} /</strong> {{project.partner}}</h3>
-								<div class="year absolute">{{project.year}}</div>
-								<ul class="bullet-list">
-									{% for task in project.tasks %}
-									<li>{{task}}</li>
-									{% endfor %}
-								</ul>
-							</li>
-							{% endfor %}
-						</ul>
-					</div>
-					<!-- <div class="info-box" id="publication-list">
-						<h2 class="h2">PUBLICATIONS</h2>
-					</div> -->
-				</div>
-				<div class="col col-2">
-					<div class="info-box">
-						<h2 class="h2">education</h2>
-						<h3 class="h3"><strong>{{page.sections.education.degree | textualize}} /</strong> {{page.sections.education.university | textualize}}</h3>
-						<div class="year">{{page.sections.education.years | textualize}}</div>
-						<p>{{page.sections.education.description | textualize}}</p>
-					</div>
-					<div class="info-box">
-						<h2 class="h2">technical</h2>
-						<ul class="category-list">
-							<li>
-								<div class="dt">Programming:</div>
-								<ul class="tag-list">
-									{% for item in page.sections.skills.programming %}
-									<li>{{ item }}</li>
-									{% endfor %}
-								</ul>
-							</li>
-							<li>
-								<div class="dt">Software:</div>
-								<ul class="tag-list">
-									{% for item in page.sections.skills.software %}
-									<li>{{ item }}</li>
-									{% endfor %}
-								</ul>
-							</li>
-							<li>
-								<div class="dt">Topics:</div>
-								<ul class="tag-list">
-									{% for item in page.sections.skills.topics %}
-									<li>{{ item }}</li>
-									{% endfor %}
-								</ul>
-							</li>
-						</ul>
-					</div>
-					<div class="info-box">
-						<h2 class="h2">Interests</h2>
-						<ul class="category-list">
-							<li>
-								<div class="dt">I enjoy:</div>
-								<ul class="tag-list">
-									{% for item in page.sections.skills.interests %}
-									<li>{{ item }}</li>
-									{% endfor %}
-								</ul>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</main>
-	</div>
+<!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
+<!--  Last Published: Sun Feb 12 2023 13:44:49 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="63dbbe340a7bc07186d9a783" data-wf-site="63dbbe340a7bc0aa9ed9a71c">
+{% include header.html %}
 
-	<!-- <script src="../js/jquery.min.js"></script>
-	<script type="text/javascript">
-		$.getJSON('http://alloworigin.com/get?url=' + encodeURIComponent("{{page.sections.webpage | textualize}}"), function(data){
-			var data = $(data.contents).find('h2:contains("Publications")').siblings("ul")
+<body>
+  <div class="page-wrapper">
+    {% include navbar.html %}
+    <div class="section hero v7 wf-section">
+      <div class="container-default w-container">
+        <div class="position-relative z-index-1">
+          <div class="position-relative z-index-1">
+            <div data-w-id="03fc32f8-fea2-1a71-7805-352b309f755c"
+              style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+              class="mg-bottom-54px">
+              <a data-w-id="6f5f8082-1ea8-3c2e-e0ee-0d0576c5bef6" href="/team" class="link-wrapper w-inline-block">
+                <div class="line-rounded-icon link-icon-left"></div>
+                <div class="link-text">Back to team</div>
+              </a>
+            </div>
+          </div>
+          <div class="inner-container _948px center">
+            <div class="position-relative">
+              <div class="position-relative z-index-1">
+                <div data-w-id="cbfd4513-c788-3df9-b35f-a24b2c5d241d"
+                  style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+                  class="card team-member-page">
+                  <div class="inner-container _753px center">
+                    <div class="mg-bottom-48px keep">
+                      <div class="card-team-member-page-top">
+                        <div data-w-id="518f13f5-cc0a-bc4b-ed20-b06ae155254a"
+                          style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+                          class="card-team-member-page-top-content">
+                          <div class="text-200 medium mg-bottom-10px">{{page.sections.role}}</div>
+                          <h1 class="display-2 mg-bottom-0">{{page.title}}</h1>
+                          <p>{{content}}</p>
+                        </div>
+                        <div class="inner-container _280px">
+                          <div class="inner-container _233px---mbl center">
+                            <div class="image-wrapper border-radius-32px"><img
+                                src="/images/team/{{page.sections.image}}" loading="eager" alt="" class="image cover">
+                            </div>
+                          </div>
+                          <h5 class="mg-top-24px">Education</h5>
+                          <small>{{page.sections.education.degree | textualize}}, {{page.sections.education.university |
+                            textualize}}</Small>
+                          <h5 class="mg-top-24px">Technical</h5>
+                          <small><b>Programming: </b>{{page.sections.skills.programming | join: ", " }}</small><br />
+                          <small><b>Software: </b>{{page.sections.skills.software | join: ", " }}</small><br />
+                          <small><b>Topics: </b>{{page.sections.skills.topics | join: ", " }}</small>
+                          <h5 class="mg-top-24px">Interests</h5>
+                          <small>{{ page.sections.skills.interests | join: ", " }}</small>
+                        </div>
+                      </div>
+                    </div>
+                    <div data-w-id="d40afd74-a4f1-2b4e-23d0-176b4edc0b51"
+                      style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+                      class="rich-text w-richtext"></div>
+                  </div>
+                </div>
+              </div>
+              <div data-w-id="0206dea4-53ce-0c70-e3d4-654fcfcee4f6"
+                style="-webkit-transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+                class="position-absolute team-member-page---01">
+                <div class="image-wrapper"><img src="/images/shape-1-contact-form-v2-starup-template.svg" loading="eager"
+                    alt="" class="image"></div>
+              </div>
+              <div data-w-id="aabe0a8d-f33b-fe23-ffdf-8ba330ebf3d1"
+                style="-webkit-transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+                class="position-absolute team-member-page---02">
+                <div class="image-wrapper"><img src="/images/shape-2-contact-form-v2-starup-template.svg" loading="eager"
+                    alt="" class="image"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="position-absolute team-member-page-bg">
+        <div data-w-id="bf16473d-e88c-0d92-2cae-02cd98b0d49b"
+          style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+          class="position-absolute circle-shape team-member-page-shape---01"></div>
+        <div data-w-id="84217662-ed90-d98a-67c5-fb0cdd4b56cc"
+          style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+          class="position-absolute circle-shape team-member-page-shape---02"></div>
+        <div data-w-id="555849af-19ae-30a7-0580-32f03fe7050b"
+          style="-webkit-transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 80%, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+          class="position-absolute circle-shape team-member-page-shape---03"></div>
+      </div>
+    </div>
+    <div class="section wf-section">
+      <!--<div class="container-default w-container">
+        <div class="inner-container _600px---tablet center">
+          <div class="inner-container _500px---mbl center">
+            <div class="mg-bottom-60px">
+              <div data-w-id="47b65b6c-69cc-db62-5b5e-84c424f0c202"
+                style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+                class="w-layout-grid grid-2-columns title-and-buttons _1-col-tablet">
+                <div id="w-node-ffb8c8b7-c36c-9cc6-0b1a-9acb6458c2d8-86d9a783"
+                  class="flex-horizontal children-wrap center---tablet">
+                  <h2 class="display-2 mg-bottom-0">Articles by </h2>
+                  <h2 class="display-2 mg-bottom-0"></h2>
+                </div>
+                <div id="w-node-_418385a9-6450-06c7-f79c-77f492a70376-86d9a783" class="buttons-row center---tablet">
+                  <a href="blog-pages/blog-v1.html" class="btn-secondary w-button">Browse all posts</a>
+                </div>
+              </div>
+            </div>
+            <div data-w-id="cb8efb52-eb41-8a91-a159-7fc7746d40de"
+              style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+              class="w-dyn-list">
+              <div role="list" class="grid-2-columns gap-40px _1-col-tablet w-dyn-items">
+                <div id="w-node-cb8efb52-eb41-8a91-a159-7fc7746d40e0-86d9a783" role="listitem" class="w-dyn-item">
+                  <a href="#" class="card link-card blog-post-v1 w-inline-block">
+                    <div class="image-wrapper blog-post-v1-image"><img src="" loading="eager" alt=""
+                        class="image cover"></div>
+                    <div class="blog-post-v1-content">
+                      <h3 class="display-3 mg-bottom-0"></h3>
+                      <div class="mg-top-auto">
+                        <div class="divider _40px bg-neutral-400"></div>
+                        <div class="blog-post-v1-bottom">
+                          <div class="blog-post-v1-details">
+                            <div class="badge-primary small text-weight-medium"></div>
+                            <div class="text-200 bold color-neutral-800"></div>
+                          </div>
+                          <div class="blog-post-v1-arrow">
+                            <div class="line-rounded-icon"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="empty-state w-dyn-empty">
+                <div>No items found.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>-->
+    </div>
+  {% include footer.html %}
+  </div>
+  {% include loader.html %}
+  {% include scripts.html %}
+</body>
 
-			console.log(data[0]);
-			
-			$('#publication-list').append(data[0]);
-		});
-	</script> -->
-</body></html>
+</html>
