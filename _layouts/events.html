@@ -39,7 +39,8 @@
                             class="w-dyn-list">
                             {% capture now %}{{ "now" | date: "%s" | plus: 0 }}{% endcapture %}
                             <div role="list" class="grid-1-column gap-row-24px w-dyn-items">
-                                {% for event in site.data.events %}
+                                {% assign events = site.data.events | date_sort %}
+                                {% for event in events %}
                                 {% assign timestamp = event.date | date: "%s" %}
                                 {% assign linkTitle = event.title | replace: " ", "-" | downcase %}
                                 {% assign linkDate = event.date | date: "%d-%m-%Y" %}
