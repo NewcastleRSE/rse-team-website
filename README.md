@@ -9,15 +9,21 @@ This site requires Ruby and Jekyll to run locally. Refer to [Jekyll quickstart d
 
 Install the bundler package.
 
-```gem install jekyll bundler```
+```
+gem install jekyll bundler
+```
 
 Next initialise bundler. This writes a gemfile (if needed).
 
-```bundle init```
+```
+bundle init
+```
 
 Then add the Jeykll gem.
 
-```bundle add jekyll```
+```
+bundle add jekyll
+```
 
 If a gemfile already exists, install the dependencies with
 
@@ -27,4 +33,6 @@ bundle install
 
 Run the webserver at: locahost:4000
 
-```bundle exec jekyll serve```  
+```
+bundle exec jekyll serve
+```  
