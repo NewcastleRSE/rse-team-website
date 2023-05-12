@@ -1,7 +1,7 @@
 # RSE Team Website
 
 ## Editing 
-To edit the details on your staff page, simply update `_team/your-name.md` and commit. After a few minutes, the website will update automatically.
+To edit the details on your staff page, simply update `_team/your-name.md` and commit. After a few minutes, the website will update automatically. Ensure you have a photo listed in the images directory.
 
 ## Local Development
 
