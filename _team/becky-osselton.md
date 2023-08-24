@@ -16,12 +16,10 @@ sections:
       - JavaScript
       - HTML/CSS
       - Python
-      - Java
       - PHP
       - Perl
     software:
       - VueJS
-      - Knockout
       - Laravel
       - CakePhp
       - WordPress
@@ -35,9 +33,8 @@ sections:
       - Healthcare applications
       - Educational technology
     interests:
+      - Karate (Goju-Ryu)
       - Gardening
-      - Art
-      - Karate
   projects:
     - title: ePRaSE (phase 2)
       partners: Newcastle upon Tyne NHS Hospitals Foundation Trust, NHS England
@@ -107,7 +104,7 @@ sections:
         - game style application to measure user recognition of different languages
       
 ---
-Becky is a full stack web developer with many years of experience working in both the public and private sector. She currently leads the technical development of web and mobile team. 
+Becky is a full stack web developer with many years of experience working in both the public and private sector. She currently manages the Web and Mobile team. 
 
 Becky was previously employed with the NHS developing a healthcare application to modernise clinical practice for the Newcastle upon Tyne Hospitals NHS Foundation Trust. 
 
