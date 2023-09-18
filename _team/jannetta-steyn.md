@@ -4,7 +4,7 @@ layout: cv
 sections:
   image: jannetta.png
   email: jannetta.steyn@newcastle.ac.uk
-  webpage: https://www.ncl.ac.uk/digitalinstitute/staff/profile/jannettasteyn.html
+  webpage: https://github.com/jsteyn
   role: Senior Research Software Engineer
   education:
     degree: PhD Computational Neuroscience
@@ -27,11 +27,10 @@ sections:
       - Unix Shell
       - Docker
       - OpenRefine
-      - WordPress
       - MongoDB
       - Postgres
     topics:
-      - Carpentries Instructor
+      - Carpentries Instructor Trainer
       - Web Design
       - Azure
       - Docker
