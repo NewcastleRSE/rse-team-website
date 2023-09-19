@@ -12,7 +12,7 @@ To create a new staff profile follow the steps below
 7. A GitHub Action will be triggered which rebuilds and deploys the site, after it runs check your profile is visible at `https://rse.ncldata.dev/team/firstname-surname`
 
 ## Editing 
-To edit the details on your staff page, simply update `_team/your-name.md` and commit. After a few minutes, the website will update automatically. Photos can also be update be ensure that either you overwrite the old file by using the same name, or update the markdown file to point to the new image.
+To edit the details on your staff page, simply update `_team/your-name.md` and commit. After a few minutes, the website will update automatically. Photos can also be updated. Ensure that either you overwrite the old file by using the same name, or update the markdown file to point to the new image.
 
 ## Local Development
 
