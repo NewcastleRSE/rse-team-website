@@ -4,7 +4,7 @@ layout: cv
 sections:
   image: reece.png
   email: reece.walsh@ncl.ac.uk
-  webpage: https://www.ncl.ac.uk/digitalinstitute/staff/profile/reecewalsh.html
+  webpage: 
   role: Research Software Engineer
   education:
     degree: MSc Computer Science
