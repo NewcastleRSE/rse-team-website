@@ -4,7 +4,7 @@ layout: cv
 sections:
   image: reece.png
   email: reece.walsh@ncl.ac.uk
-  webpage: 
+  webpage: https://github.com/reeceawalsh
   role: Research Software Engineer
   education:
     degree: MSc Computer Science
@@ -47,7 +47,7 @@ sections:
       - Tennis
   projects:
     - title: Open Research Application
-      partner: Newcastle University Library 
+      partner: Newcastle University Library
       year: 2023-Ongoing
       tasks:
         - Creation of a full stack website in React, that allows users to ascertain how open their research is.
@@ -57,8 +57,8 @@ sections:
       partner: Dr Viktoria Spaiser, University of Leeds Faculty of Social Sciences
       year: 2023-2023
       tasks:
-        - Creation of a React native application. 
-    title: Sjögren's Registry Database
+        - Creation of a React native application.
+    - title: Sjögren's Registry Database
       partner: Newcastle upon Tyne Hospitals NHS Foundation Trust
       year: 2023-2024
       tasks:
