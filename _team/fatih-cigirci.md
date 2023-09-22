@@ -30,7 +30,7 @@ sections:
       - .NET (dotnet)
       - ASP
     topics:
-      - Solution Architecht
+      - Solution Architect
       - DevOps
       - Web Development
       - UX Design
