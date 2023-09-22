@@ -53,4 +53,4 @@ sections:
         - Development of database and front-end to replace existing system.
 ---
 
-Fatih joined the Research Software Engineering team in March 2023. He's an enthusiastic and social developer with over 5 years of professional experience across multiple industries. Someone who’s always eager to: explore, experiment, learn new technologies. He has previously worked within the .NET ecosystem working mostly on custom API’s, Azure Functions, performant optimized code as a Solution Developer/DevOps.
+Fatih joined the Research Software Engineering team in March 2023. He's an enthusiastic developer with over 5 years of professional experience across multiple industries. Someone who’s always eager to: explore, experiment and learn new technologies. He has previously worked within the .NET ecosystem working mostly on custom API’s, Azure Functions, performant optimized code as a Solution Developer/DevOps.
