@@ -31,7 +31,7 @@ sections:
       - Music
       - Writing
     projects:
-      - title: "Beyond the Margins: Mapping Gertrude Bell"
+      - title: Mapping Gertrude Bell
       partner: Gertrude Bell Archive
       year: 2023
       tasks:
