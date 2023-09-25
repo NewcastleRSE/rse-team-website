@@ -30,8 +30,8 @@ sections:
       - Martial Arts
       - Music
       - Writing
-  projects:
-    - title: Beyond the Margins: Mapping Gertrude Bell
+    projects:
+      - title: Beyond the Margins: Mapping Gertrude Bell
       partner: Gertrude Bell Archive
       year: 2023
       tasks:
