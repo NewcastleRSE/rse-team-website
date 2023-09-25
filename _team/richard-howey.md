@@ -15,6 +15,7 @@ sections:
     programming:
       - C++
       - R
+      - Python
       - Java
       - JavaScript
       - HTML/CSS
