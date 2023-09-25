@@ -8,8 +8,8 @@ sections:
   education:
     degree: PhD, Creative Writing
     university: Northumbria University
-    years: 2016-2018
-    description: Involved writing a novel and an analytical commentary (which resulted in Surrealpolitik: Surreality and the National Security State, published 2022 by Zer0 Books).
+    years: 2016 to 2018
+    description: Involved writing a novel and an analytical commentary
   skills:
     programming:
       - JavaScript
