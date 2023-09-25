@@ -3,58 +3,42 @@ title: Daniela Basurto Lozada
 layout: cv
 sections:
   image: daniela-basurto-lozada.webp
-  email: dave.horsfall@ncl.ac.uk
+  email: daniela.basurto-lozada@ncl.ac.uk
   webpage: 
   role: Research Software Engineer
   education:
-    degree: MSci Theoretical Physics
-    university: University of Durham
-    years: 2001-2005
-    description: Professional training in quantum mechanics, atomic physics and computer programming.
+    degree: MTech Image Analysis
+    university: Instituto Politécnico Nacional - CICATA Querétaro - México
+    years: 2019-2021
+    description: Remote sensing with machine learning and deep learning techniques.
   skills:
     programming:
       - Python
-      - PHP
       - JavaScript
-      - HTML/CSS
-      - JSON/XML
-      - CI/CD
+      - C#
+      - R
+      - Pytorch
+      - Shell
+      - Matlab
     software:
-      - Laravel
-      - Flask
-      - Docker
-      - MySQL
-      - VSCode
-      - GCP/AWS/Azure
-      - Terraform
+      - Git
       - GitHub Workflows
     topics:
+      - Software Development
       - Web Development
-      - Cloud Infrastructure
     interests:
-      - Running
-      - Climbing
-      - Dog Walking
-  projects:
-    - title: Mental Health Fellowship
-      partner: Software Sustainability Institute
-      year: 2021
-      tasks:
-        - Advocate for good mental health in the research software community
-        - Develop training materials to help teams improve mental wellbeing at work  
+      - Films
+      - Photography
+      - Videogames
+  projects: 
     - title: Human Cell Atlas
       partner: Haniffa Lab
-      year: 2020-2021
+      year: 2022-2023
       tasks:
         - Build software applications to visualise large scRNA datasets
         - Develop new software engineering techniques for spatially resolved transcriptomics
-    - title: FinTrust
-      partner: School of Computing
-      year: 2020-2021
-      tasks:
-        - Research the role of ML in banking and mathematical fairness in algorithms
-        - Design prototypes of Verifiable Credentials and DIDs to help financially excluded
-        - Build trustworthy conversational interfaces
     
 ---
-Dave joined the team in March 2020, and works as a full stack web developer. He graduated with a masters in Theoretical Physics from the University of Durham and has worked in both the open source community and the private sector. He works mainly with Python and Laravel, with a focus on a user-centered design process. During his time in the team, he has trained as a Software Carpentries instructor and supervised Masters level dissertation students. He has also been awarded a Software Sustainability Institute fellowship to research mental health in the wider research software community.
+Daniela joined the team in February 2022. She works on developing the cell atlas web application as well as other software tools to process and visualize the Haniffa lab's research data.
+
+Daniela received her bachelor's degree in Computer Systems Engineering from Instituto Tecnológico de Querétaro, and a master's degree in Image Analysis from Mexico's Instituto Politécnico Nacional where she worked with machine learning and deep learning techniques. She also has experience in computer vision in the industry.
