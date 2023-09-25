@@ -31,10 +31,10 @@ sections:
       - Music
       - Writing
     projects:
-      title: Mapping Gertrude Bell
-      partner: Gertrude Bell Archive
-      year: 2023
-      tasks:
+      - title: Mapping Gertrude Bell
+      - partner: Gertrude Bell Archive
+      - year: 2023
+      - tasks:
         - Plot Gertrude's locations on a map over time
         - Make a timeline slider to mark locations dynamically
         - Call up documents associated with particular locations at particular times
