@@ -16,7 +16,7 @@ sections:
       - JavaScript
       - HTML/CSS
       - R
-      -SQL
+      - SQL
     software:
       - React.js
       - Angular.js
