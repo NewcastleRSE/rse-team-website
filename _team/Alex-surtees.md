@@ -27,14 +27,14 @@ sections:
       - UX design
     interests:
       - Climbing
-      - Cooking
+      - Cooking (especially Sichuan and Indian food)
       - Table Tennis
   projects:
     - title: Human Developmental Biology Resource
       partners: Institute of Genetic Medicine, Newcastle University
       year: 2023-ongoing
       tasks:
-        - Re-implement existing tissue management web application to allow management of tissue samples (creating, allocating to projects) and projects (create projects, create project requests)
+        - Re-implement existing tissue management web application to allow management of tissue samples for allocation to research projects
     - title: Deep Neural Networks for Real-time Spectroscopic Analysis
       partner: 
       year: 2023-ongoing
@@ -46,5 +46,5 @@ sections:
 
 Alex is a full-stack web developer with experience developing health economic dashboards for communicating the cost-effectiveness of health interventions. He has also built statistical models to analyse the impact of diseases on patients and the effectiveness of health interventions, using techniques such as network meta-analyses and regression.
 
-Alex is interested in learning new technologies and disciplines and applying his skills to a diverse range of meaningful projects.
+Alex is interested in learning new technologies and disciplines and applying his skills to a diverse range of meaningful projects. 
 
