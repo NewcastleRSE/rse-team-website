@@ -13,8 +13,8 @@ sections:
     description: 
   skills:
     programming:
-      - JavaScript
-      - HTML/CSS
+      - JavaScript (React, Vue, Alpine)
+      - HTML/CSS (Tailwind, Bulma)
       - Python
       - Java
       - PHP
@@ -24,7 +24,7 @@ sections:
     software:
       - Docker
       - PostgreSQL/PostGIS
-      - Desktop GIS
+      - Desktop GIS (QGIS, ArcGIS)
       - Geospatial and Mapping Web Systems
       - OpenLayers
       - Geoserver
@@ -36,11 +36,11 @@ sections:
       - DevOps
       - Docker
     interests:
-      - Jazz piano
-      - Music generally
-      - Walking and the outdoors
+      - Jazz piano, run a local gigging band for events
+      - Repair Cafes
+      - Walking, camping and the great outdoors
       - Gardening
-      - Food
+      - Eating out/good food
   projects:
     - title: Medical Document Readability
       partner: South Tyneside and Sunderland NHS Trust
@@ -113,7 +113,7 @@ sections:
         - Developing new modules, especially in Geospatial Systems 
     - title: Geospatial Systems Centre for Doctoral Training (CDT)
       partner: School of Engineering
-      year: 2019-2021
+      year: 2019-2023
       tasks:
         - Specifying and procuring suitable computing resources for students
         - Supporting and mentoring students in Software Engineering
