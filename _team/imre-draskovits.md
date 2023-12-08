@@ -4,48 +4,37 @@ layout: cv
 sections:
   image: imre.png
   email: imre.draskovits@ncl.ac.uk
-  webpage: 
+  webpage:
   role: Research Software Engineer
   education:
-    degree: BSc Computing Science
+    degree: Computer Science
     university: Newcastle University
-    years: 2018-2022
-    description: iOS Programming, Swift, Native Apps, Open Source
   skills:
     programming:
       - Swift
       - JavaScript
-      - Python
-      - Java
     software:
       - Adobe Photoshop
-      - React
-      - React Native
       - SwiftUI
-      - UIKit
       - AWS
-      - Firebase
+      - React Native
     topics:
-      - Native Mobile Applications
-      - Web Development
-      - Recommender Algorithms
+      - iOS & Mac
+      - App Publishing
       - Open Source
+      - Collaboration
     interests:
+      - Generative AI
       - Photo Editing
       - Photography
-      - Video Games
       - Travelling
-  projects:
-    - title: Rock Art Care
-      partners: Newcastle University
-      year: 2022
-      tasks:
-        - Categorising Rock Art around the UK National Parks.
 ---
-Imre joined the team in April 2022 with the background in native iOS development.
 
-He has over 3 years experience in software development. Imre received his Computer Science degree in 2022, including spending a year in a software consulting firm working in finance.
+Since joining in April 2022, Imre has been pivoting the Mobile Team towards an exciting new direction. Having a diverse background in mobile app development, he specialises in collaboratively developing mobile applications.
 
-Since then, he has been involved in two app projects as Research Software Engineer.
+Currently Imre is actively leading the development and maintenance of five applications to various University research initiatives, serving a user base of over 200.
 
-Imre is training to be a Software Carpentries Instructor and is teaching postgraduates as part of the workshops hosted in Newcastle University.
+Having spent the past 5 years in software development, a key-factor in his career has been working at a consulting firm; where he kick-started his career in mobile app development for an industry leading financial firm.
+
+Beyond his mobile expertise, Imre is a certified Software Carpentries Instructor, engaging in the education of postgraduates through workshops hosted at Newcastle University.
+
