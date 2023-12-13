@@ -30,7 +30,7 @@ sections:
       - Travelling
 ---
 
-Since joining in 2022, Imre has been working to move the RSE Mobile Team towards an exciting new direction. Having a diverse background in mobile app development, he specialises in Apple mobile phone applications.
+Since joining in 2022, Imre has been working to move the RSE Web and Mobile Team towards an exciting new direction. Having a diverse background in mobile app development, he specialises in Apple mobile phone applications.
 
 Imre is actively leading the development and maintenance of mobile phone applications for seven University research initiatives.
 
