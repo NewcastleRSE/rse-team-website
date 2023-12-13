@@ -22,9 +22,11 @@ sections:
       - Python
       - R
     software:
+      - Svelte
       - Flask
       - JQuery
       - Bootstrap
+      - Tailwind
       - React
       - Docker
       - GitHub Workflows
@@ -41,6 +43,13 @@ sections:
       - Music
       - Motorsports
   projects:
+    - title: Evolving Hands
+      partner: NU Library Special Collections
+      year: 2023-2024
+      tasks:
+        - Develop generalisable package to transform TEI into HTML
+        - Develop and design showcase website for the project
+        - Integration with the Gertrude Bell archive
     - title: Bee-ing Human
       partner: School of English
       year: 2022-2025
