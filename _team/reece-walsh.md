@@ -15,9 +15,8 @@ sections:
     programming:
       - JavaScript
       - TypeScript
-      - HTML/CSS
-      - Python
       - Java
+      - Kotlin
     software:
       - React
       - React Native
@@ -26,12 +25,10 @@ sections:
       - Cypress
       - Node.js
       - Express
+      - .NET
       - MongoDB
       - Springboot
       - MySQL
-      - WordPress
-      - GitHub Workflows
-      - Docker
       - Figma
     topics:
       - Web Development
@@ -58,7 +55,7 @@ sections:
       year: 2023-2023
       tasks:
         - Creation of a React native application.
-    - title: Sjögren's Registry Database
+    - title: Patient Registry
       partner: Newcastle upon Tyne Hospitals NHS Foundation Trust
       year: 2023-2024
       tasks:
@@ -68,5 +65,3 @@ sections:
 Reece joined the Research Software Engineering team in March 2023 while completing his masters in Computer Science at Newcastle University. His dissertation project was to develop a pathfinding algorithm visualiser that allowed users to interact and experiment with different pathfinding algorithms in the hope of furthering their understanding when paired with traditional academic methods.
 
 Since joining the team Reece has worked on a full-stack web application, a native mobile application and has began to re-design and implement an existing full-stack system for an ongoing NHS Foundation Trust project.
-
-Reece is soon to start training as a Software Carpentries Instructor.
