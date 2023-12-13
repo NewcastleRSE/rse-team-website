@@ -29,12 +29,14 @@ sections:
       - SqlServer
       - Docker
       - RabbitMQ 
+      - Tailwind
+      - Bulma
+      - Bootstrap
     topics:
       - Healthcare applications
       - Educational technology
     interests:
       - Karate (Goju-Ryu)
-      - Gardening
   projects:
     - title: ePRaSE (phase 2)
       partners: Newcastle upon Tyne NHS Hospitals Foundation Trust, NHS England
@@ -104,10 +106,9 @@ sections:
         - game style application to measure user recognition of different languages
       
 ---
-Becky is a full stack web developer with many years of experience working in both the public and private sector. She currently manages the Web and Mobile team. 
+Becky is a full stack web developer with many years of experience working in both the public and private sector. She graduated with an MSc in Computing Science in 1999 from Newcastle University. She joined the RSE team in 2019 and manages the Web and Mobile team.
 
-Becky was previously employed with the NHS developing a healthcare application to modernise clinical practice for the Newcastle upon Tyne Hospitals NHS Foundation Trust. 
-
-Becky is a Software Carpentries instructor and is teaching as part of the Institute of Coding programme. She is interested in inspiring young people and women to engage and seek careers in the technology sector. 
+Becky was previously employed with the NHS developing a healthcare application to modernise clinical practice for the Newcastle upon Tyne Hospitals NHS Foundation Trust.
+Becky continues with work closely with NHS Trusts on various projects. She is interested in inspiring young people and women to engage and seek careers in the technology sector.
 
 
