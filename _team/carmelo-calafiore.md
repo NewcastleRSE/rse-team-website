@@ -2,7 +2,7 @@
 title: Carmelo Calafiore
 layout: cv
 sections:
-  image: carmelo_calafiore.png
+  image: carmelo_calafiore.jpg
   email: Carmelo.Calafiore@newcastle.ac.uk
   webpage:
   role: Research Software Engineer
