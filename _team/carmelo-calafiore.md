@@ -7,7 +7,7 @@ sections:
   webpage:
   role: Research Software Engineer
   education:
-    degree: PhD in Computer Vision and Human Vision
+    degree: PhD in Vision
     university: University of Essex
     years: 2018-2023
     description: Completed a PhD investigating the Active Action Recognition of Humans and Robots.
