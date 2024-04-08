@@ -30,6 +30,7 @@ sections:
       - MongoDB
       - Postgres
     topics:
+      - High Performance Computing (HPC)
       - Carpentries Instructor Trainer
       - Web Design
       - Azure
