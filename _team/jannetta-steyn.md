@@ -40,11 +40,11 @@ sections:
       - Raspberry Pi
       - Tae Kwon Do, Karate
   projects:
-    - title: <a href="https://www.software.ac.uk/about/fellows/jannetta-steyn">CaprentriesOffline SSI Fellowship 2022</a>
-      partner: Software Sustainability Institute
-      year: 2022
+    - title: <a href="https://github.com/NewcastleRSE/Java_taVNS">taVNS CloseNIT</a>
+      partner: Dr. Tiago da Silva Costa
+      year: 2023/4
       tasks:
-        - Creating an infrastructure, using Raspberry Pi computers, for delivering <a href="https://carpentries.org">Carpentries</a> workshops offline.      
+        - Software to deliver transcutaneous auricular Vagus Nerve Stimulation.   
     - title: <a href="https://carpentries.ncldata.dev/">Carpentries Workshops</a>
       partner: Research Software Engineering
       year: 2020 - present
