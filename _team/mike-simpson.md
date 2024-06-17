@@ -4,10 +4,10 @@ layout: cv
 sections:
   image: mike.png
   email: mike.simpson@ncl.ac.uk
-  webpage: https://www.ncl.ac.uk/digitalinstitute/staff/profile/mikesimpson.html
+  webpage: https://github.com/mdsimpson42
   role: Research Software Engineer
   education:
-    degree: PhD 
+    degree: PhD
     university: Newcastle University
     years: 2011-2016
     description: Developed and evaluated a real-time rail engineering simulation using software from the video games industry, in collaboration with NewRail.
@@ -16,22 +16,22 @@ sections:
       - Python
       - C++
       - Java
+      - D3.js
+      - JavaScript/Typescript
       - PHP/HTML/CSS
-      - JavaScript
     software:
       - Blender
       - PowerBI
-      - WordPress
-      - Photoshop
-      - OpenGL
-      - PhysX
       - Unity
+      - OpenGL
+      - Photoshop
+      - WordPress
     topics:
       - Data Visualisation
       - 3D Graphics
       - Virtual Simulation
-      - Video Game Development
       - Gamification (i.e. in Education/Healthcare)
+      - Video Game Development
     interests:
       - Reading/Writing
       - Video Games
@@ -117,8 +117,10 @@ sections:
         - Bug fixing and finalising application for deployment.
 
 ---
-Dr Mike Simpson is a Research Software Engineer working for the Newcastle University RSE Team. He graduated with a BSc in Computing from Newcastle University in 2008, followed by an MSc in Computer Games Engineering in 2009. He worked as a Game Programmer at a local studio for a number of years before returning to the university to start his PhD in 2011. His thesis was titled "Real-time Simulation of Rail Vehicle Dynamics" and involved using software and development practices from the game industry to develop and evaluate real-time 3D engineering simulations.
+Dr Mike Simpson has been part of the Newcastle University RSE Team since it was founded in 2019. He is an experience and adaptive software engineer, with years of experience of collaborating with researchers from a range of disciplines and institutions.
 
-Since joining the Digital Institute in 2016, he developed software applications for a number of research projects, including projects with the NHS and the Alan Turing Institute. He has presented his work at a number of events, including the international Blender conference in Amsterdam, the UK RSE Conference and the IEEE e-Science Conference in Auckland, NZ. He has also taught 'Introduction to Software Development' on the Institute of Coding's Degree Apprenticeship in Software Engineering. He has also been involved in the wider RSE community, including being a member of the organising committee for the 2022 RSE Conference.
+After graduating from a BSc in Computing (2008) and an MSc in Computer Games Engineering (2009), he worked as a programmer at a local games studio before returning to the university to start his PhD. His thesis, titled "Real-time Simulation of Rail Vehicle Dynamics", involved using software and development practices from the game industry to develop and evaluate real-time 3D engineering simulations. He completed his PhD in 2017 and went on to work at the Digital Institute as a Research Associate before becoming an RSE.
 
-His research interests include the application of games industry technologies for other applications - such as gamification in education and healthcare - as well as virtual simulation and data visualisation. He also has experience of 3D graphics, web development and software engineering in a range of programming languages. His other interests include Photography and 3D modelling, as well as reading and writing fiction. He also runs a blog where he discusses a range of topics from Video Games to Mental Health. 
+Since joining the Digital Institute, he has developed software solutions for dozens of research projects across multiple domains, including projects with the NHS and the Alan Turing Institute. He has co-authored a number of papers and presented his work at a number of events, including the Blender conference in Amsterdam, the IEEE e-Science Conference in Auckland, NZ, and multiple talks at the UK RSE Conference. In that time, Mike has been an active member of the RSE community, including being on the organising committee for the RSE Conference in 2022 and 2023, and being elected as Trustee of the Society of Research Software Engineering, where he has been chair or co-chair of various teams and working groups. He has also taught 'Introduction to Software Development' on the Institute of Coding's Degree Apprenticeship in Software Engineering, has delivered Software Carpentry Training and has been involved in the RSE Society Mentoring Programme.
+
+His research interests include the use of 3D graphics and games industry technologies for applications such as gamification in education and healthcare, virtual simulation and interactive data visualisation. He also has experience of web development and software engineering in a range of programming languages and domains. His other interests include Photography and 3D modelling, as well as reading and writing fiction. He also runs a blog where he discusses a range of topics from Video Games to Mental Health, and has also written for the team, the RSE Society and the Software Sustainability Institute.
