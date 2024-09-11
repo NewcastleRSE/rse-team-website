@@ -12,7 +12,9 @@ sections:
     years: 1999 - 2003
     description: Virtual Learning Environments in Secondary Schools
   skills:
+    programming:
       - linux system administration
+    software:
     topics:
       - High Performance Computing (HPC)
       - Carpentries Training
