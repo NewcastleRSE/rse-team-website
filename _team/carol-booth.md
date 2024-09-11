@@ -20,6 +20,8 @@ sections:
       - Jazz and Lindy dance
       - Dance fitness teaching
       - Outdoor walks, coffee and cake with friends
+  projects:
+    -title: Newcastle University HPC
    
 ---
 
