@@ -2,7 +2,7 @@
 title: Imre Draskovits
 layout: cv
 sections:
-  image: imre.jpeg
+  image: imre.png
   email: imre.draskovits@ncl.ac.uk
   webpage: https://github.com/notimre/
   role: Research Software Engineer
