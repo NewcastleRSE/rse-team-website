@@ -5,7 +5,7 @@ sections:
   image: dave.png
   email: dave.horsfall@ncl.ac.uk
   webpage: 
-  role: Senior Research Software Engineer
+  role: Head of Biomedical Research Software
   education:
     degree: MSci Theoretical Physics
     university: University of Durham
@@ -57,4 +57,4 @@ sections:
         - Build trustworthy conversational interfaces
     
 ---
-Dave joined the team in March 2020, and works as a full stack web developer. He graduated with a masters in Theoretical Physics from the University of Durham and has worked in both the open source community and the private sector. He works mainly with Python and Laravel, with a focus on a user-centered design process. During his time in the team, he has trained as a Software Carpentries instructor and supervised Masters level dissertation students. He has also been awarded a Software Sustainability Institute fellowship to research mental health in the wider research software community.
+Dave joined the team in March 2020, and works in the Haniffa Lab as part of the Faculty of Medical Sciences. He graduated with a masters in Theoretical Physics from the University of Durham and has worked in both the open source community and the private sector. He works mainly with Python and Laravel, with a focus on a user-centered design process. During his time in the team, he has trained as a Software Carpentries instructor and supervised Masters level dissertation students. He has also been awarded a Software Sustainability Institute fellowship to research mental health in the wider research software community.
