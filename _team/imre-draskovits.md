@@ -12,26 +12,25 @@ sections:
   skills:
     programming:
       - Swift
-      - JavaScript
+	  - Kotlin
     software:
-      - Adobe Photoshop
       - SwiftUI
-      - AWS
-      - React Native
+      - Jetpack Compose
+	  - Azure
     topics:
       - iOS & Mac
-      - App Publishing
+      - App Store Publishing
       - Open Source
-      - Collaboration
     interests:
       - Generative AI
+	  - LLMs
       - Photo Editing
       - Photography
-      - Travelling
 ---
 
 Since joining in 2022, Imre has been working to move the RSE Web and Mobile Team towards an exciting new direction. Having a diverse background in mobile app development, he specialises in Apple mobile phone applications.
 
 Imre is actively leading the development and maintenance of mobile phone applications for seven University research initiatives.
 
-Having spent the past 5 years in software development, a key-factor in his career was working at a consulting firm; where he kick-started his career in mobile app development for an industry leading financial firm.
+Having spent the past 6 years in software development, a key-factor in his career was working at a consulting firm; where he kick-started his career in mobile app development for an industry leading financial firm.
+
