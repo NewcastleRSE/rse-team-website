@@ -2,7 +2,7 @@
 title: Michelle Gilbride
 layout: cv
 sections:
-  image: michelle.jpg
+  image: michelle.png
   email: michelle.gilbride@ncl.ac.uk
   webpage: https://www.ncl.ac.uk/nicd/staff/profile/michellegilbride.html
   role: Operations Administrator
