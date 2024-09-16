@@ -12,18 +12,18 @@ sections:
   skills:
     programming:
       - Swift
-	  - Kotlin
+      - Kotlin
     software:
       - SwiftUI
       - Jetpack Compose
-	  - Azure
+      - Azure
     topics:
       - iOS & Mac
       - App Store Publishing
       - Open Source
     interests:
       - Generative AI
-	  - LLMs
+      - LLMs
       - Photo Editing
       - Photography
 ---
