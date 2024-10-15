@@ -1,5 +1,7 @@
 name: Research Software Engineering
 
+baseurl: ""
+
 plugins:
   - jekyll-datapage-generator
 

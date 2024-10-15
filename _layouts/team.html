@@ -36,7 +36,7 @@
                     <div class="card team-item">
                       <div class="mg-bottom-38px"><a href="/team/{{team_member.title | downcase | replace: " ", "-" | slugify: "latin" }}"
                           class="image-wrapper border-radius-24px w-inline-block"><img
-                            src="/images/team/{{ team_member.sections.image }}" loading="eager"
+                            src="{{ '/images/team/' | append: team_member.sections.image | resize: '400x400>' }}" loading="eager"
                             alt="{{team_member.title}}" class="image cover"
                             style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"></a>
                       </div>
