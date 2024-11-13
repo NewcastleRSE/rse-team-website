@@ -51,12 +51,12 @@ sections:
       - Theatre, Cinema
 
   projects:
-    - title: Deep Neural Networks for Real-Time Spectroscopic Analysis
-      partner: School of Natural and Environmental Sciences
-      year: 2024-current
-      tasks: 
-        - Creation and imlementation of deep learning techniques to predict molecular structures from X-ray absorption spectra and viceversa
-        - Developing and testing training techniques for various types of neural networks, such as graph neural networks.
+      - title: Deep Neural Networks for Real-Time Spectroscopic Analysis
+        partner: School of Natural and Environmental Sciences
+        year: 2024-current
+        tasks: 
+          - Creation and imlementation of deep learning techniques to predict molecular structures from X-ray absorption spectra and viceversa
+          - Developing and testing training techniques for various types of neural networks, such as graph neural networks.
 
       - title: MemoryChat - Technical Feasibility and Pathways to Market
         partner: Faculy of Medical Sciences
