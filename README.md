@@ -63,8 +63,10 @@ cd [/path/to/local/repository]
 git pull                                         # pulls down the latest version of the website
 bundle exec jekyll serve                         # Runs the webserver at: locahost:4000
 ```
-### Edit the website locally
+### Workflow for editing the website locally
 - first set up the local git repository
 - pull to ensure you're up to date
+- ? create a new branch ?
 - do your edits
-- run the webserver locally
+- run the webserver locally to check it works
+- pull request
