@@ -22,4 +22,4 @@ sections:
 ---
 Michelle is the team's Operations Administrator providing support across all the activities we undertake. Michelle has worked in a range of public and private sector organisations both in the UK and abroad.
 
-Michelle supports the Head of Reasearch Software Engineering with meeting management, logistical support and event planning. In addition, Michelle supports the team's training offering, organising teaching spaces, registration and catering. 
+Michelle supports the Head of Research Software Engineering with meeting management, logistical support and event planning. In addition, Michelle supports the team's training offering, organising teaching spaces, registration and catering. 
