@@ -26,8 +26,6 @@ sections:
       - Node.js
       - Express
       - .NET
-      - MongoDB
-      - Springboot
       - MySQL
       - Figma
     topics:
@@ -62,6 +60,10 @@ sections:
         - Development of database and front-end to replace existing system.
 ---
 
-Reece joined the Research Software Engineering team in March 2023 while completing his masters in Computer Science at Newcastle University. His dissertation project was to develop a pathfinding algorithm visualiser that allowed users to interact and experiment with different pathfinding algorithms in the hope of furthering their understanding when paired with traditional academic methods.
+Reece joined the Research Software Engineering team while completing his masters in Computer Science at Newcastle University. His dissertation project was to develop a pathfinding algorithm visualiser that allowed users to interact and experiment with different pathfinding algorithms in the hope of furthering their understanding when paired with traditional academic methods.
 
-Since joining the team Reece has worked on a full-stack web application, a native mobile application and has began to re-design and implement an existing full-stack system for an ongoing NHS Foundation Trust project.
+Since joining the team, Reece has worked on multiple mobile applications and full stack systems. 
+
+He is currently developing a patient registry system which is being used by multiple medical research groups within the university. 
+
+Reece is also developing a website and mobile application for OrQA, an organ transplant assessment tool. 
