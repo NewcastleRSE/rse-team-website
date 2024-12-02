@@ -17,6 +17,8 @@ sections:
       - R
       - MATLAB
       - HTML/CSS
+      - Javascript
+      - D3.js
     software:
       - Git/GitHub
       - LaTeX
@@ -24,15 +26,17 @@ sections:
       - Quarto
       - Qt
       - AWS (serverless)
+      - Docker
     topics:
-      - Data Analysis
       - Data Visualisation
+      - UI/UX
+      - Data Analysis
       - Signal Processing
       - Network Analysis
       - Unsupervised Learning
       - Statistics
       - Computational Modelling
-      - UI/UX
+      - Medical Device Software
     interests:
       - Reading
       - Generative art
