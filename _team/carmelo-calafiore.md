@@ -15,6 +15,7 @@ sections:
     programming:
       - Python
       - Bash
+      - Batch
       - MATLAB
       - JavaScript
       - HTML/CSS
@@ -32,8 +33,7 @@ sections:
       - Computational Neuroscience
       - Modelling
       - Machine Learning
-      - Deep Learning
-      - Reinforcement Learning
+      - High Performance Computing (HPC)
       - Psychology and Cognitive Neuroscience
       - Statistics
     interests:
@@ -41,6 +41,7 @@ sections:
       - Travelling
       - Movies
       - Music
+      - Recording and Editing Videos
   projects:
     - title: 
       partner: 
@@ -67,7 +68,7 @@ He started his academic studies with a Bachelor of Science (BSc) in psychologica
 G. D’Annunzio Chieti-Pescara in Italy, where he learned major disciplines like advanced statistics, cognitive
 psychology, and cognitive neuroscience. He was delighted to receive a scholarship for his BSc studies.
 
-Subsequently, he got interested in the computational approaches that model the brain’s cognitive processes, and thus,
+Subsequently, he got interested in the computational approaches that model the brain’s cognitive processes. Thus, he
 did a Master of Science (MSc) in computational neuroscience and cognitive robotics at the University of Birmingham in
 the UK. In this MSc course, he learned machine learning, with a major focus on deep learning, Bayesian estimations and
 data modelling. His first deep learning project was about decoding the location of visual stimuli from the
