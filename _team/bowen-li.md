@@ -49,15 +49,6 @@ sections:
 
 
 ---
-Bowen Li joined the team in October 2022. His background centres on computational modelling, including both theory
-and application. Bowen received his PhD in formal modelling and verification. 
-Since completing his PhD, he has contributed to several computational biology projects as a 
-Research Associate and has been the lead developer of open-source scientific software
-[NUFEB](http://github.com/nufeb), a platform for agent-based modelling and simulation of cell populations.
+Bowen Li joined the team in October 2022. His background centres on computational modelling, including both theory and application. Bowen received his PhD in formal modelling and verification. Since completing his PhD, he has contributed to several computational biology projects as a Research Associate and has been the lead developer of open-source scientific software [NUFEB](http://github.com/nufeb), a platform for agent-based modelling and simulation of cell populations.
 
-Since joining the RSE team, Bowen has expanded his interests to include machine/deep learning. 
-He has participated in related RSE projects and developed software soluations. 
-These include applications of image classification for 
-livestock, and deep learning models to predict X-ray spectroscopy data.
-He also continues to enhance NUFEB, focusing on maintaining the software 
-and extending its capabilities to modelling various biological systems.
+Since joining the RSE team, Bowen has expanded his interests to include machine/deep learning. He has participated in related RSE projects and developed software solutions. These include applications of image classification for livestock, and deep learning models to predict X-ray spectroscopy data. He also continues to enhance NUFEB, focusing on maintaining the software and extending its capabilities to modelling various biological systems.
