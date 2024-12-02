@@ -5,7 +5,7 @@ sections:
   image: Becky.jpg
   email: rebecca.osselton@newcastle.ac.uk
   webpage: 
-  role: Head of Web & Mobile
+  role: Senior Research Software Engineer
   education:
     degree: MSc Computing Science
     university: Newcastle University
@@ -34,10 +34,16 @@ sections:
       - Bootstrap
     topics:
       - Healthcare applications
-      - Educational technology
     interests:
       - Karate (Goju-Ryu)
   projects:
+    - title: British Printed Images
+      partners: School of History, Classics and Archaeology
+      year: 2024
+      tasks:
+        - redevelopment of original website using Express.js and Vue.js
+        - advance searching of digital image archive
+        - optimisation of database
     - title: ePRaSE (phase 2)
       partners: Newcastle upon Tyne NHS Hospitals Foundation Trust, NHS England
       year: 2022-ongoing
@@ -79,36 +85,12 @@ sections:
       year: 2021
       tasks:
         - set up WordPress website, deployed to internally hosted VM
-    - title: DAAWN
-      partner: School of Education, Communication and Language Sciences
-      year: 2020
-      tasks:
-        - Creation of Aphasia assessment tool for use by Speech and Language Therapists
-        - Front end application that creates online reports and downloadable PDFs
-        - Built with Vue.js
-    - title: ePRaSE (phase 1)
-      partner: Newcastle upon Tyne Hospitals Trust
-      year: 2019-2021
-      tasks:
-        - back-end development using Java in Springboot framework
-        - front-end development using Vue.js  
-    - title: Investigative Journalism
-      partner: School of Education, Communication & Language Sciences
-      year: 2020
-      tasks:
-        - Vue.js based application featuring VueGoogleCharts and D3js libraries
-        - Featured a range of different Google and D3 charts. Bubble, bar, line, link-node
-    - title: Alien Speech Match
-      partner: School of Education, Communication & Language Sciences
-      year: 2020
-      tasks:
-        - MySql/PHP Laravel framework based application, with Vue.js front end 
-        - game style application to measure user recognition of different languages
+  
       
 ---
-Becky is a full stack web developer with many years of experience working in both the public and private sector. She graduated with an MSc in Computing Science in 1999 from Newcastle University. She joined the RSE team in 2019 and manages the Web and Mobile team.
+Becky is a full stack web developer with many years of experience working in both the public and private sector. She graduated with an MSc in Computing Science in 1999 from Newcastle University. She joined the RSE team in 2019 and is part of the leadership group, managing members ofthe Web and Mobile team.
 
 Becky was previously employed with the NHS developing a healthcare application to modernise clinical practice for the Newcastle upon Tyne Hospitals NHS Foundation Trust.
-Becky continues with work closely with NHS Trusts on various projects. She is interested in inspiring young people and women to engage and seek careers in the technology sector.
+Becky continues with work closely with NHS Trusts and NHS England on various projects. She is interested in inspiring young people and women to engage and seek careers in the technology sector.
 
 
