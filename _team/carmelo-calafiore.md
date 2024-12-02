@@ -15,6 +15,7 @@ sections:
     programming:
       - Python
       - Bash
+      - Batch
       - MATLAB
       - JavaScript
       - HTML/CSS
@@ -32,8 +33,7 @@ sections:
       - Computational Neuroscience
       - Modelling
       - Machine Learning
-      - Deep Learning
-      - Reinforcement Learning
+      - High Performance Computing (HPC)
       - Psychology and Cognitive Neuroscience
       - Statistics
     interests:
