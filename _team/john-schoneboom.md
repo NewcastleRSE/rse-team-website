@@ -21,7 +21,8 @@ sections:
       - CakePHP
       - JQuery
       - Leaflet
-      - Angular (a bit)
+      - Strapi
+      - Vue.js
     topics:
       - UI/UX
       - Web Design
@@ -33,7 +34,7 @@ sections:
     projects:
       - title: Mapping Gertrude Bell
       - partner: Gertrude Bell Archive
-      - year: 2023
+      - year: 2023-24
       - tasks:
         - Plot Gertrude's locations on a map over time
         - Make a timeline slider to mark locations dynamically
@@ -43,4 +44,4 @@ sections:
 ---
 John comes to the RSE Team from his previous gig at Newcastle University as a research software engineer for ECPPEC (Eighteenth Century Political Participation and Electoral Culture), where he developed the database that drives that project's website. He also works as a consultant for the New York State Department of Health, updating data on a monthly basis for their Health Profiles site, which allows end users to explore and compare quality data for hospitals, nursing homes, and other health care facilities.
 
-John's also a published writer, with a novel (Fontoon) from Dedalus Books and a non-fiction work (Surrealpolitik) from Zer0 Books, and a playwright, with numerous plays performed mostly at Off Off Broadway venues in New York. He occasionally teaches Creative Writing modules at Newcastle and/or Northumbria Universities. He likes his martial arts, has a special relationship with Latin American novelists, and can reliably shoot 90 percent at the free throw line (it's a basketball thing). He has lately taken an unfortunate interest in playing guitar and hopes with diligent study to achieve mediocrity by some unspecified future point in time.
+John's also a published writer, with two novels -- Fontoon (Dedalus Books) and The Day Aunt Gina Came To Town (Roundfire Books) -- and a non-fiction work Surrealpolitik (Zer0 Books), and a playwright, with numerous plays performed mostly at Off Off Broadway venues in New York. He occasionally teaches Creative Writing modules at Newcastle and Northumbria Universities. He likes martial arts, Latin American novelists, shooting basketballs through hoops from a distance of 15 feet, and struggling to play simple things on guitar.
