@@ -16,34 +16,57 @@ To edit the details on your staff page, simply update `_team/your-name.md` and c
 
 ## Local Development
 
-This site requires Ruby and Jekyll to run locally. Refer to [Jekyll quickstart docs](https://jekyllrb.com/docs/) for full details, and to this guide on [installing ruby](https://www.ruby-lang.org/en/documentation/installation/).
+This site requires Ruby, Jekyll and Imagemagick to run locally. Refer to Jekyll quickstart docs for full details, and to this guide on installing ruby. It is more secure to install gems without sudo. This requires setting variables https://jekyllrb.com/docs/troubleshooting/#no-sudo.
+### Install Imagemagick and Ruby
+Imagemagick is used to process photos, which happens during each build.  Ruby may already be installed on your system.  Check with `ruby -v`
+```
+sudo apt install imagemagick
+sudo apt install ruby-full
+```
+### Install Ruby, Jekyll
+Set environment variables for install to your home directory. This means _*sudo will not be required* for the rest of the process_. Edit your .bashrc with nano ~/.bashrc and add the following lines:
+```
+# Ruby Environment Variables
+
+export GEM_HOME=$HOME/gems
+export PATH=$HOME/gems/bin:$PATH
+```
 
 Install the bundler package.
-
 ```
 gem install jekyll bundler
 ```
 
-Next, initialise bundler. This writes a gemfile (if needed).
+change directory to the website root
+```
+cd [/path/to/local/repository]
+```
 
+initialise bundler. This writes a gemfile (if needed).
 ```
 bundle init
 ```
 
 Then add the Jeykll gem.
-
 ```
 bundle add jekyll
 ```
 
 If a gemfile already exists, install the dependencies with
-
 ```
 bundle install
 ```
-
-Run the webserver at: locahost:4000
-
+### Run the website locally
+Assuming you have already set up a local git repository for the website. Change directory to the website root, pull the latest version of the website from [this repository](https://github.com/NewcastleRSE/rse-team-website/tree/main)
 ```
-bundle exec jekyll serve
-```  
+cd [/path/to/local/repository]
+git pull                                         # pulls down the latest version of the website
+bundle exec jekyll serve                         # Runs the webserver at: locahost:4000
+```
+### Workflow for editing the website locally
+- first set up the local git repository
+- pull to ensure you're up to date
+- ? create a new branch ?
+- do your edits
+- run the webserver locally to check it works
+- pull request

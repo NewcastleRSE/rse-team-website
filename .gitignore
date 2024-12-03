@@ -5,3 +5,4 @@ package-lock.json
 _layouts/old
 .vscode
 /.idea
+cache

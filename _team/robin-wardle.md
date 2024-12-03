@@ -5,7 +5,7 @@ sections:
   image: robin.png
   email: robin.wardle@newcastle.ac.uk
   webpage:
-  role: Research Software Engineer
+  role: Senior Research Software Engineer
   education:
     degree: PhD Energy
     university: Newcastle University
@@ -14,21 +14,20 @@ sections:
 
   skills:
     programming:
-      - C / C++
-      - Javascript
-      - FORTRAN
-      - HTML / CSS
-      - Unix shells
       - Python
+      - C / C++
+      - Unix shells
+      - Java
+      - FORTRAN
       - Modelica
       - Matlab
     software:
       - Docker
-      - MongoDB
-      - OpenModelica / Dymola
       - Terraform
+      - MongoDB
+      - PostgreSQL
+      - OpenModelica / Dymola
       - LaTeX
-      - Blender
       - GitHub Workflows
       - Gimp
     topics:
@@ -37,14 +36,28 @@ sections:
       - Data processing and analysis
       - Visualisation
     interests:
-      - Drumming
+      - Drumming (https://instagram.com/ifnotnow_music/)
       - Golf
       - Video and board games
       - Modelmaking and minifigure painting
   projects:
+    - title: OpenScan 2
+      partner: NIHRIO
+      year: 2023-present
+      tasks:
+        - Conversion of Java microservices code to Python to run on AWS Lambda
+        - Deployment and management of MongoDB Atlas
+        - Design of AWS data pipeline
+    - title: 5G Innovation Regions
+      partner: School of Agriculture
+      year: 2024-2025
+      tasks:
+        - design of data stream collection system
+        - Microsoft Azure data handling deployment
+        - Apache NiFi and PostgreSQL (implementing [e-science-central Data Warehouse](https://github.com/e-science-central/data-warehouse-client))
     - title: EARTH database / MSK-RADAR
       partner: Newcastle University Medical School / Newcastle upon Tyne Hospitals NHS Foundation Trust
-      year: 2022-present
+      year: 2022-2023
       tasks:
         - Re-engineering existing Earth ARTHritis (EARTH) database
         - Development of process to integrate externally-recorded rheumatology patient health scores into the Trust's patient record
@@ -68,4 +81,4 @@ sections:
         - Azure storage of linked patient monitoring and scan data
 
 ---
-Robin joined the Research Software Engineering team in May 2021, on completing a PhD in Energy at Newcastle University. He graduated with a Masters in Electro-mechanical Engineering from Manchester University, and has additionally worked as an RA in Newcastle University's School of Engineering on energy systems demonstrator and modelling projects, including in collaboration with the Centre for Energy Systems Integration. He has also worked extensively in industry, principally in scientific and simulation software environments, and has significant project management experience in both industrial and university contexts. As well as developing data and software solutions for research, Robin is a qualified Software Carpentries Instructor and also teaches Degree Apprenticeship modules in collaboration with the Institute of Coding.
+Robin joined the Research Software Engineering team in May 2021, on completing a PhD in Energy at Newcastle University. He graduated with a Masters in Electro-mechanical Engineering from Manchester University, and has additionally worked as an RA in Newcastle University's School of Engineering on energy systems demonstrator and modelling projects, including in collaboration with the Centre for Energy Systems Integration. He has also worked extensively in industry, principally in scientific and simulation software environments, and has significant project management experience in both industrial and university contexts. As well as developing data and software solutions for research, Robin is a qualified Software Carpentries Instructor and has also taught Degree Apprenticeship modules in collaboration with the Institute of Coding.

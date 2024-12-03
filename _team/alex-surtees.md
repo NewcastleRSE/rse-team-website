@@ -14,21 +14,22 @@ sections:
   skills:
     programming:
       - JavaScript
-      - HTML/CSS
       - R
+      - Python
       - SQL
     software:
       - React.js
-      - Angular.js
       - d3.js
-      - RShiny Dashboards
+      - RShiny
+      - Django
     topics:
-      - Health economic models
+      - Medical Research
       - UX design
     interests:
       - Climbing
       - Cooking (especially Sichuan and Indian food)
       - Table Tennis
+      - Chess
   projects:
     - title: Human Developmental Biology Resource
       partners: Institute of Genetic Medicine, Newcastle University
@@ -44,7 +45,7 @@ sections:
 
 ---
 
-Alex is a full-stack web developer with experience developing health economic dashboards for communicating the cost-effectiveness of health interventions. He has also built statistical models to analyse the impact of diseases on patients and the effectiveness of health interventions, using techniques such as network meta-analyses and regression.
+Alex is a full-stack web developer with experience working on a variety of medical research projects in software development or statistical roles, including health economic and neuroimaging statistical dashboards, and the Human Developmental Biology Resource.
 
 Alex is interested in learning new technologies and disciplines and applying his skills to a diverse range of meaningful projects. 
 

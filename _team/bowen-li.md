@@ -19,7 +19,7 @@ sections:
     software:
       - Docker
       - Unix Shell
-      - Latex 
+      - LaTeX
       - Sphinx
       - Git/Github
     topics:
@@ -29,9 +29,9 @@ sections:
       - Formal Verification
       - Machine learning
     interests:
-      - Travelling 
+      - TCG Games 
       - Swimming
-      - Card Game
+      - Reading
   projects:
     - title: CowSmart Health Monitoring
       partner: School of Natural and Environmental Sciences
@@ -49,12 +49,6 @@ sections:
 
 
 ---
-Bowen Li joined the team in October 2022. His background centres on computational modelling, including both theory
-and application. He has many years experience in research software development. Li received his
-PhD in 2017 working on the formal modelling and verification of complex evolving system (CES). 
-Since then, he has been involved in several computational biology projects as Research Associate. 
-During his RA career, Li was the main developer of open-source scientific software
-[NUFEB](http://github.com/nufeb) (Massively parallel simulator for agent-based modelling of microbial systems);
-[SONCraft](https://workcraft.org) (GUI-based platform for CES modelling and analysis); and
-[mcSTACK](https://github.com/shelllbw/mcSTACK) (Probabilistic model checker for DNA nano-device model).
+Bowen Li joined the team in October 2022. His background centres on computational modelling, including both theory and application. Bowen received his PhD in formal modelling and verification. Since completing his PhD, he has contributed to several computational biology projects as a Research Associate and has been the lead developer of open-source scientific software [NUFEB](http://github.com/nufeb), a platform for agent-based modelling and simulation of cell populations.
 
+Since joining the RSE team, Bowen has expanded his interests to include machine/deep learning. He has participated in related RSE projects and developed software solutions. These include applications of image classification for livestock, and deep learning models to predict X-ray spectroscopy data. He also continues to enhance NUFEB, focusing on maintaining the software and extending its capabilities to modelling various biological systems.
