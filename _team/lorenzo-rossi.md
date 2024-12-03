@@ -58,19 +58,19 @@ sections:
         - Creation and implementation of deep learning techniques to predict molecular structures from X-ray absorption spectra and viceversa
         - Developing and testing training techniques for various types of neural networks, such as graph neural networks.
 
-      - title: MemoryChat - Technical Feasibility and Pathways to Market
-        partner: Faculy of Medical Sciences
-        year: 2024-current
-        tasks: 
-          - Planning the development of MemoryChat, an AI-powered chatbot for the detection of dementia designed to meet NHS standards.
+    - title: MemoryChat - Technical Feasibility and Pathways to Market
+      partner: Faculy of Medical Sciences
+      year: 2024-current
+      tasks: 
+        - Planning the development of MemoryChat, an AI-powered chatbot for the detection of dementia designed to meet NHS standards.
 
-      - title: Turbulent boundary layers
-        partner: School of Engineering
-        year: 2024-current
-        tasks:
-          - Enhncing computational fluid dynamics simulations by integrating HDF5 parallel I/O output libraries in a large codebase
-          - Creation of a standard to document, organise and store data produced by HPC simulations
-          - Advising on best research practices, such as version control with Git/GitHub
+    - title: Turbulent boundary layers
+      partner: School of Engineering
+      year: 2024-current
+      tasks:
+        - Enhncing computational fluid dynamics simulations by integrating HDF5 parallel I/O output libraries in a large codebase
+        - Creation of a standard to document, organise and store data produced by HPC simulations
+        - Advising on best research practices, such as version control with Git/GitHub
 ---
 Lorenzo joined the team in 2024. For the [XANESNET project](https://xanesnet.readthedocs.io/en/latest/), he implements neural networks to predict molecular structures. For computational fluid dynamics projects, Lorenzo manages codebases and datasets, provides advice on research best practices, and enhances simulations by integrating HDF5 libraries. He also contributed to MemoryChat, a chatbot for the detection of dementia designed to meet NHS standards.
 
