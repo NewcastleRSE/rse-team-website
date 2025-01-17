@@ -7,7 +7,7 @@ sections:
   webpage: https://github.com/mdsimpson42
   role: Research Software Engineer
   education:
-    degree: PhD
+    degree: PhD Computing Science
     university: Newcastle University
     years: 2011-2016
     description: Developed and evaluated a real-time rail engineering simulation using software from the video games industry, in collaboration with NewRail.
@@ -117,10 +117,12 @@ sections:
         - Bug fixing and finalising application for deployment.
 
 ---
-Dr Mike Simpson has been part of the Newcastle University RSE Team since it was founded in 2019. He is an experience and adaptive software engineer, with years of experience of collaborating with researchers from a range of disciplines and institutions.
+Dr Mike Simpson has been part of the Newcastle University RSE Team since it was founded in 2019. He is an experienced and adaptive software engineer, with years of experience collaborating with researchers from a range of disciplines and institutions.
 
-After graduating from a BSc in Computing (2008) and an MSc in Computer Games Engineering (2009), he worked as a programmer at a local games studio before returning to the university to start his PhD. His thesis, titled "Real-time Simulation of Rail Vehicle Dynamics", involved using software and development practices from the game industry to develop and evaluate real-time 3D engineering simulations. He completed his PhD in 2017 and went on to work at the Digital Institute as a Research Associate before becoming an RSE.
+After graduating with a BSc in Computing and an MSc in Computer Games Engineering, he worked as a Games Programmer at a local studio before returning to the university for his PhD. His thesis, titled "Real-time Simulation of Rail Vehicle Dynamics", involved using software and development practices from the games industry to develop and evaluate real-time 3D engineering simulations. He completed his PhD in 2017 and went on to work in the Digital Institute as a Research Associate before becoming an RSE in 2019.
 
-Since joining the Digital Institute, he has developed software solutions for dozens of research projects across multiple domains, including projects with the NHS and the Alan Turing Institute. He has co-authored a number of papers and presented his work at a number of events, including the Blender conference in Amsterdam, the IEEE e-Science Conference in Auckland, NZ, and multiple talks at the UK RSE Conference. In that time, Mike has been an active member of the RSE community, including being on the organising committee for the RSE Conference in 2022 and 2023, and being elected as Trustee of the Society of Research Software Engineering, where he has been chair or co-chair of various teams and working groups. He has also taught 'Introduction to Software Development' on the Institute of Coding's Degree Apprenticeship in Software Engineering, has delivered Software Carpentry Training and has been involved in the RSE Society Mentoring Programme.
+Since joining the Institute, he has contributed to dozens of research projects across multiple domains, including projects with the NHS and the Alan Turing Institute. He has co-authored several papers and presented his work at a number of events all over the world. He has also taught 'Introduction to Software Development' on the Institute of Coding's Degree Apprenticeship in Software Engineering and delivered Software Carpentry training.
 
-His research interests include the use of 3D graphics and games industry technologies for applications such as gamification in education and healthcare, virtual simulation and interactive data visualisation. He also has experience of web development and software engineering in a range of programming languages and domains. His other interests include Photography and 3D modelling, as well as reading and writing fiction. He also runs a blog where he discusses a range of topics from Video Games to Mental Health, and has also written for the team, the RSE Society and the Software Sustainability Institute.
+Mike has been an active member of the wider RSE community. He was part of the organising committee for the RSE Conference in 2022 and 2023, a mentor in the Society of Research Software Engineering's Mentoring Programme, became a Trustee of the Society and was elected Vice President in 2024. In 2025, he was awarded a Fellowship by the Software Sustainability Institute to work on supporting Mental Health in the Research Software community.
+
+His research interests include the use of 3D graphics and games industry technologies for applications such as gamification in education and healthcare, virtual simulation and interactive data visualisation. He also has experience in web development and software engineering in a range of programming languages and domains. His other interests include Photography and 3D modelling, as well as reading and writing fiction. He also runs a blog where he discusses a range of topics, from video games to mental health, and has written for the team, the RSE Society and the SSI.
