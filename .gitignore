@@ -6,3 +6,4 @@ _layouts/old
 .vscode
 /.idea
 cache
+Gemfile.lock
