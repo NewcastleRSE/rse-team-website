@@ -5,7 +5,7 @@ sections:
   image: tsg.png
   email: tiago.sousa-garcia@ncl.ac.uk
   webpage: https://tiagosousagarcia.co.uk/
-  role: Research Software Engineer
+  role: Senior Research Software Engineer
   education:
     degree: PhD Early Modern Literature
     university: University of Kent
@@ -27,11 +27,13 @@ sections:
       - JQuery
       - Bootstrap
       - Tailwind
+      - Figma
       - React
       - Docker
       - GitHub Workflows
     topics:
       - Web Development
+      - Design
       - Text Analysis
       - Digital Humanities
       - AI
@@ -43,6 +45,13 @@ sections:
       - Music
       - Motorsports
   projects:
+  - title: Bee-ing Human
+      partner: School of English
+      year: 2022-2025
+      tasks:
+        - Design and implement a digital platform to publish the project's research
+        - Digital editing and TEI encoding of primary texts
+        - Creation of small webapps for research dissemination
     - title: Evolving Hands
       partner: NU Library Special Collections
       year: 2023-2024
@@ -50,13 +59,6 @@ sections:
         - Develop generalisable package to transform TEI into HTML
         - Develop and design showcase website for the project
         - Integration with the Gertrude Bell archive
-    - title: Bee-ing Human
-      partner: School of English
-      year: 2022-2025
-      tasks:
-        - Design and implement a digital platform to publish the project's research
-        - Digital editing and TEI encoding of primary texts
-        - Creation of small webapps for research dissemination
     - title: JUMPSTART
       partner: School of English
       year: 2022
@@ -77,4 +79,4 @@ sections:
         - Responsible for content creation and liaising between Humanities and Computer Science   
         
 ---
-Tiago is a frontend web developer and digital humanist. Before his graduate and post-graduate education in literature, he worked as a software developer and studied computer engineering in Portugal. Between 2017 and 2021, he was the Research Associate for the ATNU project, based at the School of English, where he also taught literary and digital humanities' focused modules. In 2020-2021, he convened and ran the *Coding for Humanists* study group, and from 2022 he is one of the co-convenors of the Code Community at Newcastle University. Until 2022 he was a co-managing editor of the *Journal of the Text Encoding Initiative* and an editorial assistant for *The Programming Historian.*
+Tiago is a frontend web developer and digital humanist. Before his graduate and post-graduate education in literature, he worked as a software developer and studied computer engineering in Portugal. Between 2017 and 2021, he was the Research Associate for the ATNU project, based at the School of English, where he also taught literary and digital humanities' focused modules. In 2020-2021, he convened and ran the *Coding for Humanists* study group, and from 2022 he was one of the co-convenors of the Code Community at Newcastle University. He was a co-managing editor of the *Journal of the Text Encoding Initiative* and an editorial assistant for *The Programming Historian.*
