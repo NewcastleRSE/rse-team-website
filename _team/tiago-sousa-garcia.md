@@ -45,7 +45,7 @@ sections:
       - Music
       - Motorsports
   projects:
-  - title: Bee-ing Human
+    - title: Bee-ing Human
       partner: School of English
       year: 2022-2025
       tasks:
