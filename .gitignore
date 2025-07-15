@@ -7,3 +7,4 @@ _layouts/old
 /.idea
 cache
 Gemfile.lock
+./_site
