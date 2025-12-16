@@ -36,7 +36,7 @@ sections:
       - Computer games
       - Board games     
       - Science
-   projects:
+    projects:
     - title: Imago 
       partner: University of Liverpool, Harvard University
       year: 2025-
@@ -44,6 +44,6 @@ sections:
         - Data engineering/data science for Imago, the UK's Data Service for Imagery
         - https://imago.ac.uk
 ---
-Jon joined the RSE team in 2025, working as part of the Imago team, developing the UK's Data Service for Imagery. He holds a Masters degree in Physics and a PhD in atmospheric science, and worked as a postdoctoral researcher before shifting to working as an RSE. He joined Newcastle from the University of Leeds, where he worked on optimisation of the next-generation UK Met Office Momentum weather and climate modelling framework. Jon's current work focuses on development and optimisation of data processing pipelines for satellite data, converting huge numbers of pixels into data products that are useful, usable and used by the wider community.
+Jon joined the RSE team in November 2025, working as part of the Imago team;developing the UK's Data Service for Imagery. He holds a Masters degree in Physics and a PhD in atmospheric science, and worked as a postdoctoral researcher before shifting to working as an RSE. He joined Newcastle from the University of Leeds, where he worked on optimisation of the next-generation UK Met Office Momentum weather and climate modelling framework. Jon's current work focuses on development and optimisation of data processing pipelines for satellite data, converting huge numbers of pixels into data products that are useful, usable and used by the wider community, with a focus on lowering barriers to entry for social scientists to use image data.
 
 He works mainly in Python and (to a lesser extent nowadays) Fortran - leveraging various frameworks such as Dask, Numba, f2py and CuPy to make Python code parallel and performant, in order to process the large volumes of data required for Imago. He trained as a Carpentries instructor in a previous role at Cardiff University, and has experience in supervision of Masters students from his postdoctoral career.  
