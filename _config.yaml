@@ -28,3 +28,10 @@ collections:
     output: true
   events:
     output: true
+
+defaults:
+  - scope:
+      path: "_team"
+      type: "team"
+    values:
+      permalink: /team/:name/
