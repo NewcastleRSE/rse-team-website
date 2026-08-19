@@ -33,6 +33,12 @@ sudo apt install ruby-full
 
 To install ImageMagick on Windows, you need to download the installer from the [ImageMagick download page](https://imagemagick.org/script/download.php#windows) and follow the installation instructions. Make sure to add the directory to the PATH.
 
+Alternatively, you can install it using winget:
+
+```
+winget install ImageMagick.ImageMagick
+```
+
 ### Install Ruby, Jekyll
 
 Set environment variables for install to your home directory. This means _*sudo will not be required* for the rest of the process_. Edit your .bashrc with nano ~/.bashrc and add the following lines:
