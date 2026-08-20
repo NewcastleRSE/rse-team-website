@@ -29,18 +29,54 @@
               <div data-w-id="aa9c0502-0375-4984-631f-2d7f4e312c1c"
                 style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
                 class="w-dyn-list">
+                {% assign current_team = site.team | where_exp: "member", "member.relative_path contains '/current/'" | sort: "title" %}
+                {% assign alumni_team = site.team | where_exp: "member", "member.relative_path contains '/alumni/'" | sort: "title" %}
+
+                <div class="mg-bottom-24px">
+                  <h2 class="display-3">Current Team</h2>
+                </div>
                 <div role="list" class="grid-3-columns gap-row-40px w-dyn-items">
 
-                  {% for team_member in site.team %}
+                  {% for team_member in current_team %}
                   <div role="listitem" class="w-dyn-item">
                     <div class="card team-item">
-                      <div class="mg-bottom-38px"><a href="/team/{{team_member.title | downcase | replace: " ", "-" | slugify: "latin" }}"
+                      <div class="mg-bottom-38px"><a href="{{ team_member.url }}"
                           class="image-wrapper border-radius-24px w-inline-block"><img
                             src="{{ '/images/team/' | append: team_member.sections.image | resize: '400x400>' }}" loading="eager"
                             alt="{{team_member.title}}" class="image cover"
                             style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"></a>
                       </div>
-                      <div class="card-team-content"><a href="/team/{{team_member.title | downcase | replace: " ", "-" | slugify: "latin" }}" class="content-link-block card-team w-inline-block">
+                      <div class="card-team-content"><a href="{{ team_member.url }}" class="content-link-block card-team w-inline-block">
+                          <h3 class="display-4 mg-bottom-6px">{{team_member.title}}</h3>
+                          <div class="text-200 medium">{{team_member.sections.role}}</div>
+                        </a>
+                        <div class="w-layout-grid social-media-icons-grid card-team-item"><a
+                            href="mailto:{{team_member.sections.email}}" class="social-media-icon-link w-inline-block">
+                            <div class="social-icon-font"></div>
+                          </a><a href="{{team_member.sections.webpage}}" class="social-media-icon-link w-inline-block">
+                            <div class="social-icon-font"></div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  {% endfor %}
+                </div>
+
+                <div class="mg-top-80px mg-bottom-24px">
+                  <h2 class="display-3">Alumni</h2>
+                </div>
+                <div role="list" class="grid-3-columns gap-row-40px w-dyn-items">
+                  {% for team_member in alumni_team %}
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="card team-item">
+                      <div class="mg-bottom-38px"><a href="{{ team_member.url }}"
+                          class="image-wrapper border-radius-24px w-inline-block"><img
+                            src="{{ '/images/team/' | append: team_member.sections.image | resize: '400x400>' }}" loading="eager"
+                            alt="{{team_member.title}}" class="image cover"
+                            style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"></a>
+                      </div>
+                      <div class="card-team-content"><a href="{{ team_member.url }}" class="content-link-block card-team w-inline-block">
                           <h3 class="display-4 mg-bottom-6px">{{team_member.title}}</h3>
                           <div class="text-200 medium">{{team_member.sections.role}}</div>
                         </a>
