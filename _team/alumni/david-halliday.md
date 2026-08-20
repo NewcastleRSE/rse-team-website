@@ -36,6 +36,7 @@ sections:
       tasks:
 
 ---
-David Halliday is a Research Software Engineer in the Digital Institute at Newcastle University. The team focuses on delivering software engineering expertise for research projects across the university. He is an Elasticsearch Certified Engineer and Observability Engineer. He has worked in Software, Fraud Investigation and Data Science roles in HMRC.
+
+David Halliday was a Research Software Engineer in the RSE Team at Newcastle University. He is an Elasticsearch Certified Engineer and Observability Engineer. He has worked in Software, Fraud Investigation and Data Science roles in HMRC.
 
 He started in the Research Software Engineering team at Newcastle University in Newcastle 2022.

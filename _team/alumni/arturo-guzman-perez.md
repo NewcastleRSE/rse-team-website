@@ -45,6 +45,9 @@ sections:
       tasks:
         - Designing and building a website for eTIPS that allows parents, carers and healthcare professionals to easily access resources to support babies that have been diagnosed with perinatal stroke.
 ---
+
 Arturo joined the RSE team in April 2024, coming from a previous role as web designer/developer and animator.
+
 His career has been marked by unwavering dedication to the intersection of visual storytelling, technology and art - with experience designing and building online experiences for artists, curators, small businesses and creative studios.
+
 He holds a MA in Art and Politics from Goldsmiths, University of London, and a BA in Fine Art from Facultad de Artes y Diseño, Universidad Nacional Autónoma de México.

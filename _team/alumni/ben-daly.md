@@ -32,8 +32,5 @@ sections:
       - Languages
 
 ---
-Ben joined the team in September 2023. His background is in geospatial/GIS development, particuarly in the environmental/conservation fields. He has previously developed Deep Learning Convolutional Neural Networks to identify native vegetation from multispectral images taken via drone.    
 
-
-
-
+Ben joined the team in September 2023. His background is in geospatial/GIS development, particuarly in the environmental/conservation fields. He has previously developed Deep Learning Convolutional Neural Networks to identify native vegetation from multispectral images taken via drone.
