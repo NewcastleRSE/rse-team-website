@@ -86,6 +86,7 @@ sections:
         - Generation of a downloadable PDF report from the client using pdfJS
 
 ---
-Mark leads the Research Software Engineering team in the Digital Institute. The team focuses on delivering software engineering expertise for research projects across the university. He graduated with a BSc in Computing from Northumbria University in 2008 followed by an MSc from Newcastle University in 2012. In 2016 he was elected as a trustee for the UK Research Software Engineering Association, contributing to the transformation of the association into a registered charity in 2018.
+
+Mark led the Research Software Engineering team from it's creation in 2018 until 2026. He graduated with a BSc in Computing from Northumbria University in 2008 followed by an MSc from Newcastle University in 2012. In 2016 he was elected as a trustee for the UK Research Software Engineering Association, contributing to the transformation of the association into a registered charity in 2018.
 
 Since joining the university in 2012 he designed and implemented software applications for a number of research projects. Everything from the gamification of stroke rehabilitation physical therapy to mobile applications for alerting stakeholders to damage to rock art carvings and the leveraging of cloud computing to render a trillion pixel image from a vector model of Newcastle city centre.

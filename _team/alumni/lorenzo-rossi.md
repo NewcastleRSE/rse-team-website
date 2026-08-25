@@ -72,7 +72,8 @@ sections:
         - Creation of a standard to document, organise and store data produced by HPC simulations
         - Advising on best research practices, such as version control with Git/GitHub
 ---
-Lorenzo joined the team in 2024. For the [XANESNET project](https://xanesnet.readthedocs.io/en/latest/), he implements neural networks to predict molecular structures. For computational fluid dynamics projects, Lorenzo manages codebases and datasets, provides advice on research best practices, and enhances simulations by integrating HDF5 libraries. He also contributed to MemoryChat, a chatbot for the detection of dementia designed to meet NHS standards.
+
+Lorenzo joined the team in 2024. For the [XANESNET project](https://xanesnet.readthedocs.io/en/latest/), he implemented neural networks to predict molecular structures. For computational fluid dynamics projects, Lorenzo managed codebases and datasets, provided advice on research best practices, and enhanced simulations by integrating HDF5 libraries. He also contributed to MemoryChat, a chatbot for the detection of dementia designed to meet NHS standards.
 
 Before joining the team, Lorenzo was a research scientist in computational and mathematical physics. He developed and implemented the first [method to simulate certain gravitational systems](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.086006#fulltext) - such as black holes – in full generality. Through this method, he simulated and analysed [instabilities in rotating black holes](https://arxiv.org/abs/2311.14167) (see [videos of the simulations](https://www.youtube.com/@AsymptoticallyAdSevolutions)). Lorenzo also contributed to [GRFolres](https://doi.org/10.21105/joss.06369), a parallel C++ code to simulate generalisations of Einstein’s general relativity.
 

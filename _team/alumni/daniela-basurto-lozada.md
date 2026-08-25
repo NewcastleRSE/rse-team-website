@@ -39,6 +39,7 @@ sections:
         - Develop new software engineering techniques for spatially resolved transcriptomics
     
 ---
-Daniela joined the team in February 2022. She works on developing the cell atlas web application as well as other software tools to process and visualize the Haniffa lab's research data.
+
+Daniela joined the team in February 2022. She worked on developing the cell atlas web application as well as other software tools to process and visualize the Haniffa lab's research data.
 
 Daniela received her bachelor's degree in Computer Systems Engineering from Instituto Tecnológico de Querétaro, and a master's degree in Image Analysis from Mexico's Instituto Politécnico Nacional where she worked with machine learning and deep learning techniques. She also has experience in computer vision in the industry.
