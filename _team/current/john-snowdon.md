@@ -3,7 +3,9 @@ title: John Snowdon
 layout: cv
 sections:
   image: john-snowdon.png
-  webpage: https://www.target-earth.net
+  webpage:
+    name: Website
+    link: https://www.target-earth.net
   role: Senior Research Infrastructure Engineer (HPC)
   education:
     degree: BSc Computer Science

@@ -3,7 +3,9 @@ title: Robin Nandi
 layout: cv
 sections:
   image: robin-nandi.png
-  webpage: https://www.ncl.ac.uk/digitalinstitute/staff/profile/robinnandi.html
+  webpage:
+    name: University profile
+    link: https://www.ncl.ac.uk/digitalinstitute/staff/profile/robinnandi.html
   role: Research Software Engineer
   education:
     degree: PhD Physics

@@ -3,7 +3,9 @@ title: Reece Walsh
 layout: cv
 sections:
   image: reece.png
-  webpage: https://github.com/reeceawalsh
+  webpage:
+    name: GitHub
+    link: https://github.com/reeceawalsh
   role: Research Software Engineer
   education:
     degree: MSc Computer Science

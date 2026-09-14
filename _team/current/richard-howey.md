@@ -3,7 +3,9 @@ title: Richard Howey
 layout: cv
 sections:
   image: richard.png
-  webpage: https://www.staff.ncl.ac.uk/richard.howey/
+  webpage:
+    name: Staff profile
+    link: https://www.staff.ncl.ac.uk/richard.howey/
   role: Research Software Engineer
   education:
     degree: PhD Pure Mathematics

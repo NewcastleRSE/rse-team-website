@@ -3,7 +3,9 @@ title: Daniela Basurto Lozada
 layout: cv
 sections:
   image: daniela-basurto-lozada.webp
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: MTech Image Analysis

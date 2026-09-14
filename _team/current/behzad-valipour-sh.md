@@ -3,7 +3,9 @@ title: Behzad Valipour Shokouhi
 layout: cv
 sections:
   image: BehzadValipour_web.jpg
-  webpage: https://github.com/behzad89
+  webpage:
+    name: GitHub
+    link: https://github.com/behzad89
   role: Senior Research Software Engineer
   education:
     degree: PhD Environmental Epidemiology

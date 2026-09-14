@@ -3,7 +3,9 @@ title: Jon Elsey
 layout: cv
 sections:
   image: jon-elsey.png
-  webpage: https://github.com/JonElsey
+  webpage:
+    name: GitHub
+    link: https://github.com/JonElsey
   role: Research Software Engineer 
   education:
     degree: PhD in Atmospheric Spectroscopy

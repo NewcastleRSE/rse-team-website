@@ -3,7 +3,9 @@ title: Mike Simpson
 layout: cv
 sections:
   image: mike.png
-  webpage: https://github.com/mdsimpson42
+  webpage:
+    name: Linktree
+    link: https://linktr.ee/mdsimpson
   role: Research Software Engineer
   education:
     degree: PhD Computing Science
@@ -116,9 +118,9 @@ sections:
         - Bug fixing and finalising application for deployment.
 
 ---
-Dr Mike Simpson has been part of the Newcastle University RSE Team since it was founded in 2019. He is an experienced and adaptive software engineer, with years of experience collaborating with researchers from a range of disciplines and institutions.
+Dr Mike Simpson has been part of the Newcastle University RSE Team since it was founded in 2018. He is an experienced and adaptive software engineer, with years of experience collaborating with researchers from a range of disciplines and institutions.
 
-After graduating with a BSc in Computing and an MSc in Computer Games Engineering, he worked as a Games Programmer at a local studio before returning to the university for his PhD. His thesis, titled "Real-time Simulation of Rail Vehicle Dynamics", involved using software and development practices from the games industry to develop and evaluate real-time 3D engineering simulations. He completed his PhD in 2017 and went on to work in the Digital Institute as a Research Associate before becoming an RSE in 2019.
+After graduating with a BSc in Computing and an MSc in Computer Games Engineering, he worked as a Games Programmer at a local studio before returning to the university for his PhD. His thesis, titled "Real-time Simulation of Rail Vehicle Dynamics", involved using software and development practices from the games industry to develop and evaluate real-time 3D engineering simulations. He completed his PhD in 2017 and went on to work in the Digital Institute as a Research Associate before becoming an RSE in 2018.
 
 Since joining the Institute, he has contributed to dozens of research projects across multiple domains, including projects with the NHS and the Alan Turing Institute. He has co-authored several papers and presented his work at a number of events all over the world. He has also taught 'Introduction to Software Development' on the Institute of Coding's Degree Apprenticeship in Software Engineering and delivered Software Carpentry training.
 

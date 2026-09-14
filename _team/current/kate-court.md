@@ -3,7 +3,9 @@ title: Kate Court
 layout: cv
 sections:
   image: kate.png
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Head of Middleware & Data Science
   education:
     degree: PhD Design

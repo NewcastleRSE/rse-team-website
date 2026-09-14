@@ -3,7 +3,9 @@ title: Mark Turner
 layout: cv
 sections:
   image: mark.png
-  webpage: https://www.ncl.ac.uk/digitalinstitute/staff/profile/markturner.html
+  webpage:
+    name: University profile
+    link: https://www.ncl.ac.uk/digitalinstitute/staff/profile/markturner.html
   role: Head of Research Software Engineering
   education:
     degree: MSc Internet Technologies and Enterprise Computing

@@ -3,7 +3,9 @@ title: Imre Draskovits
 layout: cv
 sections:
   image: imre.png
-  webpage: https://github.com/notimre/
+  webpage:
+    name: GitHub
+    link: https://github.com/notimre/
   role: Research Software Engineer
   education:
     degree: Computer Science

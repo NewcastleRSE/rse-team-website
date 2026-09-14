@@ -3,7 +3,9 @@ title: Si Linsley
 layout: cv
 sections:
   image: simon.png
-  webpage: https://rse.ncldata.dev/team
+  webpage:
+    name: Website
+    link: https://rse.ncldata.dev/team
   role: Research Software Engineer
   education:
     degree: Film Production Technology, BSc

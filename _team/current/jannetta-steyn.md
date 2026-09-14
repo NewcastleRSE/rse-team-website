@@ -3,7 +3,9 @@ title: Jannetta Steyn
 layout: cv
 sections:
   image: jannetta.png
-  webpage: https://github.com/jsteyn
+  webpage:
+    name: GitHub
+    link: https://github.com/jsteyn
   role: Senior Research Software Engineer
   education:
     degree: PhD Computational Neuroscience

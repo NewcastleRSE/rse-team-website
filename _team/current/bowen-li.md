@@ -3,7 +3,9 @@ title: Bowen Li
 layout: cv
 sections:
   image: bowen.png
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: PhD Computing Science

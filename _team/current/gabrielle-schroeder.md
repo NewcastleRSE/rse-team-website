@@ -3,7 +3,9 @@ title: Gabrielle Schroeder
 layout: cv
 sections:
   image: gabrielle-schroeder.jpg
-  webpage: https://github.com/gmschroe
+  webpage:
+    name: GitHub
+    link: https://github.com/gmschroe
   role: Research Software Engineer
   education:
     degree: PhD Computer Science

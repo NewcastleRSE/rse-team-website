@@ -4,6 +4,8 @@ layout: cv
 sections:
   image: carmelo_calafiore.jpg
   webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: PhD in Vision

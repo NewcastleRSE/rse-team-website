@@ -3,7 +3,9 @@ title: Dave Horsfall
 layout: cv
 sections:
   image: dave.png
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Head of Biomedical Research Software
   education:
     degree: MSci Theoretical Physics

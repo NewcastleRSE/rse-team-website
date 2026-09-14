@@ -3,7 +3,9 @@ title: Arturo Guzmán Pérez
 layout: cv
 sections:
   image: arturo.jpg
-  webpage: https://gitlab.com/arturoguzman
+  webpage:
+    name: GitLab
+    link: https://gitlab.com/arturoguzman
   role: Research Software Engineer
   education:
     degree: MA Art & Politics

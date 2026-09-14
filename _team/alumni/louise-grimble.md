@@ -3,7 +3,9 @@ title: Louise Grimble
 layout: cv
 sections:
   image: louise-grimble.jpg
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: Masters (by Research) Bioinformatics

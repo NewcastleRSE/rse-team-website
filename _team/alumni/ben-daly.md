@@ -3,7 +3,9 @@ title: Ben Daly
 layout: cv
 sections:
   image: ben.jpeg
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: BSc 

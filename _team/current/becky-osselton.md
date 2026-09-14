@@ -3,7 +3,9 @@ title: Becky Osselton
 layout: cv
 sections:
   image: Becky.jpg
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Senior Research Software Engineer
   education:
     degree: MSc Computing Science

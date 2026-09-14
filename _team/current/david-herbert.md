@@ -3,7 +3,9 @@ title: David Herbert
 layout: cv
 sections:
   image: david.png
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: MA Natural Sciences (Physics)

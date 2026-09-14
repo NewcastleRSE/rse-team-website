@@ -3,7 +3,9 @@ title: Lorenzo Rossi
 layout: cv
 sections:
   image: lorenzo-rossi.JPG
-  webpage: https://github.com/lorenzorossi7
+  webpage:
+    name: GitHub
+    link: https://github.com/lorenzorossi7
   role: Research Software Engineer
   education:
     degree: Ph.D. in Computational & Mathematical Physics

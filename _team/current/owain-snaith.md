@@ -3,7 +3,9 @@ title: Owain Snaith
 layout: cv
 sections:
   image: osnaith.jpg
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: PhD (Astrophysics)

@@ -4,6 +4,8 @@ layout: cv
 sections:
   image: robin.png
   webpage:
+    name:
+    link:
   role: Senior Research Software Engineer
   education:
     degree: PhD Energy

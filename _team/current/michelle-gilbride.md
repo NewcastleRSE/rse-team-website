@@ -3,7 +3,9 @@ title: Michelle Gilbride
 layout: cv
 sections:
   image: michelle.png
-  webpage: https://www.ncl.ac.uk/nicd/staff/profile/michellegilbride.html
+  webpage:
+    name: University profile
+    link: https://www.ncl.ac.uk/nicd/staff/profile/michellegilbride.html
   role: Operations Administrator
   education:
     degree: BA History

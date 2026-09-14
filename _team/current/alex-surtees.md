@@ -3,7 +3,9 @@ title: Alex Surtees
 layout: cv
 sections:
   image: Alex.jpg
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: BSc Mathematics
