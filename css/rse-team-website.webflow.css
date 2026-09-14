@@ -13540,6 +13540,11 @@ figcaption {
   grid-column-gap: 33px;
 }
 
+.card-team-member-page-top h2 {
+  font-size: 24px;
+  margin-top: 40px;
+}
+
 .card-team-member-page-top-content {
   max-width: 441px;
 }
