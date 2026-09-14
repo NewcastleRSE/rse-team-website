@@ -3,14 +3,13 @@ title: Mike Simpson
 layout: cv
 sections:
   image: mike.png
-  email: mike.simpson@ncl.ac.uk
   webpage: https://github.com/mdsimpson42
   role: Research Software Engineer
   education:
     degree: PhD Computing Science
     university: Newcastle University
     years: 2011-2016
-    description: Developed and evaluated a real-time rail engineering simulation using software from the video games industry, in collaboration with NewRail.
+    description: Developed and evaluated real-time rail engineering simulations using software from the video games industry, in collaboration with NewRail.
   skills:
     programming:
       - Python

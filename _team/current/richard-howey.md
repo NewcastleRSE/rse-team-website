@@ -3,7 +3,6 @@ title: Richard Howey
 layout: cv
 sections:
   image: richard.png
-  email: richard.howey@ncl.ac.uk
   webpage: https://www.staff.ncl.ac.uk/richard.howey/
   role: Research Software Engineer
   education:

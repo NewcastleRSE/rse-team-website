@@ -3,7 +3,6 @@ title: Gabrielle Schroeder
 layout: cv
 sections:
   image: gabrielle-schroeder.jpg
-  email: gabrielle.schroeder@ncl.ac.uk
   webpage: https://github.com/gmschroe
   role: Research Software Engineer
   education:

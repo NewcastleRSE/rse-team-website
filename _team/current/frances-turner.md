@@ -3,7 +3,6 @@ title: Frances Turner
 layout: cv
 sections:
   image: frances.png
-  email: frances.hutchings@ncl.ac.uk
   webpage: https://scholar.google.co.uk/citations?hl=en&user=a1Q8giEAAAAJ
   role: Research Software Engineer
   education:

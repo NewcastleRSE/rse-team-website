@@ -3,7 +3,6 @@ title: Tiago Sousa Garcia
 layout: cv
 sections:
   image: tsg.png
-  email: tiago.sousa-garcia@ncl.ac.uk
   webpage: https://tiagosousagarcia.co.uk/
   role: Senior Research Software Engineer
   education:

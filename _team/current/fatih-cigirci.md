@@ -3,7 +3,6 @@ title: Fatih Cigirci
 layout: cv
 sections:
   image: fatih.png
-  email: fatih.cigirci@ncl.ac.uk
   webpage: https://github.com/cigircii
   role: Research Software Engineer
   education:

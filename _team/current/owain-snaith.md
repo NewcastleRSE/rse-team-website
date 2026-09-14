@@ -3,7 +3,6 @@ title: Owain Snaith
 layout: cv
 sections:
   image: osnaith.jpg
-  email: owain.snaith@newcastle.ac.uk
   webpage: 
   role: Research Software Engineer
   education:

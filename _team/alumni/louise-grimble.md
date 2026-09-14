@@ -3,7 +3,6 @@ title: Louise Grimble
 layout: cv
 sections:
   image: louise-grimble.jpg
-  email: louise.grimble@newcastle.ac.uk
   webpage: 
   role: Research Software Engineer
   education:

@@ -3,7 +3,6 @@ title: Daniela Basurto Lozada
 layout: cv
 sections:
   image: daniela-basurto-lozada.webp
-  email: daniela.basurto-lozada@ncl.ac.uk
   webpage: 
   role: Research Software Engineer
   education:

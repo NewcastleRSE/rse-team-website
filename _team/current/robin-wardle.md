@@ -3,7 +3,6 @@ title: Robin Wardle
 layout: cv
 sections:
   image: robin.png
-  email: robin.wardle@newcastle.ac.uk
   webpage:
   role: Senior Research Software Engineer
   education:

@@ -3,7 +3,6 @@ title: John Snowdon
 layout: cv
 sections:
   image: john-snowdon.png
-  email: john.snowdon@ncl.ac.uk
   webpage: https://www.target-earth.net
   role: Senior Research Infrastructure Engineer (HPC)
   education:

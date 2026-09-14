@@ -3,7 +3,6 @@ title: Alex Surtees
 layout: cv
 sections:
   image: Alex.jpg
-  email: alex.surtees@newcastle.ac.uk
   webpage: 
   role: Research Software Engineer
   education:

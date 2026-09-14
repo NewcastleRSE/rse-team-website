@@ -3,7 +3,6 @@ title: Reece Walsh
 layout: cv
 sections:
   image: reece.png
-  email: reece.walsh@ncl.ac.uk
   webpage: https://github.com/reeceawalsh
   role: Research Software Engineer
   education:

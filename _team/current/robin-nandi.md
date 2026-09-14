@@ -3,7 +3,6 @@ title: Robin Nandi
 layout: cv
 sections:
   image: robin-nandi.png
-  email: robin.nandi@ncl.ac.uk
   webpage: https://www.ncl.ac.uk/digitalinstitute/staff/profile/robinnandi.html
   role: Research Software Engineer
   education:

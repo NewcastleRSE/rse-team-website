@@ -3,7 +3,6 @@ title: Si Linsley
 layout: cv
 sections:
   image: simon.png
-  email: simon.linsley@ncl.ac.uk
   webpage: https://rse.ncldata.dev/team
   role: Research Software Engineer
   education:

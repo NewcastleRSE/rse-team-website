@@ -3,7 +3,6 @@ title: Jannetta Steyn
 layout: cv
 sections:
   image: jannetta.png
-  email: jannetta.steyn@newcastle.ac.uk
   webpage: https://github.com/jsteyn
   role: Senior Research Software Engineer
   education:

@@ -3,7 +3,6 @@ title: Lorenzo Rossi
 layout: cv
 sections:
   image: lorenzo-rossi.JPG
-  email: lorenzo.rossi@newcastle.ac.uk
   webpage: https://github.com/lorenzorossi7
   role: Research Software Engineer
   education:

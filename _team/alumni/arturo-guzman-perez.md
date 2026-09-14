@@ -3,7 +3,6 @@ title: Arturo Guzmán Pérez
 layout: cv
 sections:
   image: arturo.jpg
-  email: arturo.guzman-perez@newcastle.ac.uk
   webpage: https://gitlab.com/arturoguzman
   role: Research Software Engineer
   education:

@@ -3,7 +3,6 @@ title: Bowen Li
 layout: cv
 sections:
   image: bowen.png
-  email: bowen.li2@ncl.ac.uk
   webpage: 
   role: Research Software Engineer
   education:
