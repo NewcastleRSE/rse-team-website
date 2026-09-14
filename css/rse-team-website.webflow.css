@@ -6985,6 +6985,10 @@ figcaption {
   color: #363636;
 }
 
+.cv-back-link {
+  text-decoration: none;
+}
+
 .link-wrapper.white {
   color: #fff;
 }
