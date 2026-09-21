@@ -6,7 +6,7 @@ sections:
   webpage:
     name:
     link:
-  role: Senior Research Software Engineer
+  role: Head of Research Computing
   education:
     degree: PhD Energy
     university: Newcastle University
