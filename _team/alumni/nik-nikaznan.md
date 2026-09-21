@@ -3,8 +3,9 @@ title: Nik Khadijah Nik Aznan
 layout: cv
 sections:
   image: nik.png
-  email: nik.nik-aznan@ncl.ac.uk
-  webpage: https://scholar.google.com/citations?user=eG4fl-YAAAAJ&hl=en
+  webpage:
+    name: Google Scholar
+    link: https://scholar.google.com/citations?user=eG4fl-YAAAAJ&hl=en
   role: Research Software Engineer
   education:
     degree: PhD Computer Science
