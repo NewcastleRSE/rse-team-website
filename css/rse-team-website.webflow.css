@@ -7978,6 +7978,42 @@ figcaption {
   align-items: center;
 }
 
+.alumni-accordion-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px 28px;
+  background-color: #0a0a0a;
+  color: #fff;
+  text-align: left;
+  list-style: none;
+}
+
+.alumni-accordion-toggle::-webkit-details-marker {
+  display: none;
+}
+
+.alumni-accordion-toggle::marker {
+  content: "";
+}
+
+.alumni-accordion-chevron {
+  display: block;
+  flex: 0 0 10px;
+  width: 10px;
+  height: 10px;
+  margin-left: 20px;
+  border-right: 3px solid currentColor;
+  border-bottom: 3px solid currentColor;
+  transform: rotate(45deg) translateY(-2px);
+  transition: transform 200ms ease;
+}
+
+details[open] > .alumni-accordion-toggle > .alumni-accordion-chevron {
+  transform: rotate(225deg) translateY(-2px);
+}
+
 .acordion-body {
   overflow: hidden;
   width: 100%;

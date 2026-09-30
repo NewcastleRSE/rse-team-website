@@ -2,13 +2,12 @@
 <!--  Last Published: Sun Feb 12 2023 13:44:49 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="63dbbe340a7bc093ebd9a844" data-wf-site="63dbbe340a7bc0aa9ed9a71c">
 {% include header.html %}
-
 <body>
   <div class="page-wrapper">
     {% include navbar.html %}
     <div class="section team wf-section">
       <div class="container-default w-container">
-        <div class="inner-container _500px---mbl center mg-bottom-152px">
+        <div class="inner-container _500px---mbl center mg-bottom-56px">
           <div class="position-relative z-index-1">
             <div class="position-relative z-index-1">
               <div class="mg-bottom-120px">
@@ -32,11 +31,7 @@
                 {% assign current_team = site.team | where_exp: "member", "member.relative_path contains '/current/'" | sort: "title" %}
                 {% assign alumni_team = site.team | where_exp: "member", "member.relative_path contains '/alumni/'" | sort: "title" %}
 
-                <div class="mg-bottom-24px">
-                  <h2 class="display-3">Current Team</h2>
-                </div>
                 <div role="list" class="grid-3-columns gap-row-40px w-dyn-items">
-
                   {% for team_member in current_team %}
                   <div role="listitem" class="w-dyn-item">
                     <div class="card team-item">
@@ -55,59 +50,31 @@
                   </div>
                   {% endfor %}
                 </div>
-
-                <div class="mg-top-80px mg-bottom-24px">
-                  <h2 class="display-3">Alumni</h2>
-                </div>
-                <div role="list" class="grid-3-columns gap-row-40px w-dyn-items">
-                  {% for team_member in alumni_team %}
-                  <div role="listitem" class="w-dyn-item">
-                    <div class="card team-item">
-                      <div class="mg-bottom-38px"><a href="{{ team_member.url }}"
-                          class="image-wrapper border-radius-24px w-inline-block"><img
-                            src="{{ '/images/team/' | append: team_member.sections.image | resize: '400x400>' }}" loading="eager"
-                            alt="{{team_member.title}}" class="image cover"
-                            style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"></a>
-                      </div>
-                      <div class="card-team-content"><a href="{{ team_member.url }}" class="content-link-block card-team w-inline-block">
-                          <h3 class="display-4 mg-bottom-6px">{{team_member.title}}</h3>
-                          <div class="text-200 medium">{{team_member.sections.role}}</div>
-                        </a>
+                <details class="mg-top-80px">
+                  <summary class="btn-primary alumni-accordion-toggle display-3 mg-bottom-24px">
+                    Alumni
+                    <span class="alumni-accordion-chevron" aria-hidden="true"></span>
+                  </summary>
+                  <div role="list" class="grid-3-columns gap-row-40px w-dyn-items">
+                    {% for team_member in alumni_team %}
+                    <div role="listitem" class="w-dyn-item">
+                      <div class="card team-item">
+                        <div class="mg-bottom-38px"><a href="{{ team_member.url }}"
+                            class="image-wrapper border-radius-24px w-inline-block"><img
+                              src="{{ '/images/team/' | append: team_member.sections.image | resize: '400x400>' }}" loading="eager"
+                              alt="{{team_member.title}}" class="image cover"
+                              style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"></a>
+                        </div>
+                        <div class="card-team-content"><a href="{{ team_member.url }}" class="content-link-block card-team w-inline-block">
+                            <h3 class="display-4 mg-bottom-6px">{{team_member.title}}</h3>
+                            <div class="text-200 medium">{{team_member.sections.role}}</div>
+                          </a>
+                        </div>
                       </div>
                     </div>
+                    {% endfor %}
                   </div>
-                  {% endfor %}
-                </div>
-              </div>
-              <div data-w-id="12727991-8af9-d504-eaae-382ddc36d5b0"
-                style="transform: translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
-                class="position-absolute team-members-shape---01">
-                <div class="image-wrapper shape-animation"
-                  style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-                  <img
-                    src="https://assets.website-files.com/62b38c698569747d49fc8e96/62bdcc1804b51e621f19d66f_shape-1-contact-form-v1-starup-template.svg"
-                    loading="eager" alt="" class="image">
-                </div>
-              </div>
-              <div data-w-id="22356c4f-29f8-6e18-2100-87de92921036"
-                style="transform: translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
-                class="position-absolute team-members-shape---02">
-                <div class="image-wrapper shape-animation"
-                  style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-                  <img
-                    src="https://assets.website-files.com/62b38c698569747d49fc8e96/62bb98259379f8134fcc1033_shape-1-press-starup-template.svg"
-                    loading="eager" alt="" class="image">
-                </div>
-              </div>
-              <div data-w-id="f0fc8daf-b72e-7a27-e30d-009ef61a481d"
-                style="transform: translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
-                class="position-absolute team-members-shape---03">
-                <div class="image-wrapper shape-animation"
-                  style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(2deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-                  <img
-                    src="https://assets.website-files.com/62b38c698569747d49fc8e96/62be41f0737d20a2c944cbe6_shape-1-contact-form-v3-starup-template.svg"
-                    loading="eager" alt="" class="image">
-                </div>
+                </details>
               </div>
             </div>
           </div>
@@ -120,5 +87,4 @@
   {% include loader.html %}
   {% include scripts.html %}
 </body>
-
 </html>
