@@ -4442,6 +4442,15 @@ figcaption {
   font-weight: 400;
 }
 
+.contact-form-right-side .contact-team-email {
+  display: inline-block;
+  max-width: 100%;
+  font-size: 28px;
+  line-height: 1.3em;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
 .text-400.medium {
   font-weight: 500;
 }
