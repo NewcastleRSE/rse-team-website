@@ -6,7 +6,7 @@ sections:
   webpage:
     name:
     link:
-  role: Head of Middleware & Data Science
+  role: Senior Research Software Engineer
   education:
     degree: PhD Design
     university: Edinburgh University

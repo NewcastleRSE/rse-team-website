@@ -6,7 +6,7 @@ sections:
   webpage:
     name:
     link:
-  role: Head of Research Computing
+  role: Interim Head of Research Computing
   education:
     degree: PhD Energy
     university: Newcastle University

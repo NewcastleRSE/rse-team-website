@@ -6,7 +6,7 @@ sections:
   webpage:
     name: Google Scholar
     link: https://scholar.google.co.uk/citations?hl=en&user=a1Q8giEAAAAJ
-  role: Research Software Engineer
+  role: Senior Research Software Engineer
   education:
     degree: PhD Computational Neuroscience
     university: Newcastle University
