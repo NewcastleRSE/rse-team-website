@@ -13,8 +13,8 @@
             <div data-w-id="03fc32f8-fea2-1a71-7805-352b309f755c"
               style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
               class="mg-bottom-54px">
-              <a data-w-id="6f5f8082-1ea8-3c2e-e0ee-0d0576c5bef6" href="/team" class="link-wrapper w-inline-block">
-                <div class="line-rounded-icon link-icon-left"></div>
+              <a data-w-id="6f5f8082-1ea8-3c2e-e0ee-0d0576c5bef6" href="/team" class="link-wrapper cv-back-link w-inline-block">
+                <i class="las la-arrow-left" aria-hidden="true"></i>
                 <div class="link-text">Back to team</div>
               </a>
             </div>
@@ -26,7 +26,7 @@
                   style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
                   class="card team-member-page">
                   <div class="inner-container _753px center">
-                    <div class="mg-bottom-48px keep">
+                    <div class="keep">
                       <div class="card-team-member-page-top">
                         <div data-w-id="518f13f5-cc0a-bc4b-ed20-b06ae155254a"
                           style="-webkit-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 40px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
@@ -50,6 +50,10 @@
                           <small><b>Topics: </b>{{page.sections.skills.topics | join: ", " }}</small>
                           <h5 class="mg-top-24px">Interests</h5>
                           <small>{{ page.sections.skills.interests | join: ", " }}</small>
+                          {% if page.sections.webpage %}
+                          <h5 class="mg-top-24px">Links</h5>
+                          <small><a href="{{ page.sections.webpage.link }}">{{ page.sections.webpage.name }}</a></small>
+                          {% endif %}
                         </div>
                       </div>
                     </div>

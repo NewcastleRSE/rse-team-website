@@ -3,9 +3,10 @@ title: Kate Court
 layout: cv
 sections:
   image: kate.png
-  email: kate.court@ncl.ac.uk
-  webpage: 
-  role: Head of Middleware & Data Science
+  webpage:
+    name:
+    link:
+  role: Senior Research Software Engineer
   education:
     degree: PhD Design
     university: Edinburgh University

@@ -4442,6 +4442,15 @@ figcaption {
   font-weight: 400;
 }
 
+.contact-form-right-side .contact-team-email {
+  display: inline-block;
+  max-width: 100%;
+  font-size: 28px;
+  line-height: 1.3em;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
 .text-400.medium {
   font-weight: 500;
 }
@@ -6985,6 +6994,10 @@ figcaption {
   color: #363636;
 }
 
+.cv-back-link {
+  text-decoration: none;
+}
+
 .link-wrapper.white {
   color: #fff;
 }
@@ -7972,6 +7985,42 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+}
+
+.alumni-accordion-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px 28px;
+  background-color: #0a0a0a;
+  color: #fff;
+  text-align: left;
+  list-style: none;
+}
+
+.alumni-accordion-toggle::-webkit-details-marker {
+  display: none;
+}
+
+.alumni-accordion-toggle::marker {
+  content: "";
+}
+
+.alumni-accordion-chevron {
+  display: block;
+  flex: 0 0 10px;
+  width: 10px;
+  height: 10px;
+  margin-left: 20px;
+  border-right: 3px solid currentColor;
+  border-bottom: 3px solid currentColor;
+  transform: rotate(45deg) translateY(-2px);
+  transition: transform 200ms ease;
+}
+
+details[open] > .alumni-accordion-toggle > .alumni-accordion-chevron {
+  transform: rotate(225deg) translateY(-2px);
 }
 
 .acordion-body {
@@ -13534,6 +13583,11 @@ figcaption {
   display: -ms-flexbox;
   display: flex;
   grid-column-gap: 33px;
+}
+
+.card-team-member-page-top h2 {
+  font-size: 24px;
+  margin-top: 40px;
 }
 
 .card-team-member-page-top-content {

@@ -3,8 +3,9 @@ title: Carmelo Calafiore
 layout: cv
 sections:
   image: carmelo_calafiore.jpg
-  email: Carmelo.Calafiore@newcastle.ac.uk
   webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: PhD in Vision

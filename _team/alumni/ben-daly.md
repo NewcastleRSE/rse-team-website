@@ -3,8 +3,9 @@ title: Ben Daly
 layout: cv
 sections:
   image: ben.jpeg
-  email: ben.daly@ncl.ac.uk
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: BSc 

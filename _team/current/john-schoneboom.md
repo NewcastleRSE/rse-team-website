@@ -3,7 +3,6 @@ title: John Schoneboom
 layout: cv
 sections:
   image: john.jpg
-  email: john.schoneboom@ncl.ac.uk
   role: Research Software Engineer
   education:
     degree: PhD, Creative Writing

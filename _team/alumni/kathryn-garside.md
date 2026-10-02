@@ -3,7 +3,6 @@ title: Kathryn Garside
 layout: cv
 sections:
   image: kathryn.jpg
-  email: Kathryn.garside@ncl.ac.uk
   role: Research Software Engineer
   education:
     degree: PhD Mathematics

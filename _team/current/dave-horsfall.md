@@ -3,8 +3,9 @@ title: Dave Horsfall
 layout: cv
 sections:
   image: dave.png
-  email: dave.horsfall@ncl.ac.uk
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Head of Biomedical Research Software
   education:
     degree: MSci Theoretical Physics

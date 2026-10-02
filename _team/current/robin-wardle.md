@@ -3,9 +3,10 @@ title: Robin Wardle
 layout: cv
 sections:
   image: robin.png
-  email: robin.wardle@newcastle.ac.uk
   webpage:
-  role: Senior Research Software Engineer
+    name:
+    link:
+  role: Interim Head of Research Computing
   education:
     degree: PhD Energy
     university: Newcastle University

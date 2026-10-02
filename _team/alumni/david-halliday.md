@@ -3,8 +3,9 @@ title: David Halliday
 layout: cv
 sections:
   image: D_Halliday.png
-  email: david.halliday@newcastle.ac.uk
-  webpage: https://www.ncl.ac.uk/digitalinstitute/staff/profile/robinnandidavidhalliday.html
+  webpage:
+    name: University profile
+    link: https://www.ncl.ac.uk/digitalinstitute/staff/profile/robinnandidavidhalliday.html
   role: Research Software Engineer
   education:
     degree: Elastic Certified Engineer and Observability Engineer

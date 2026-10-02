@@ -3,8 +3,9 @@ title: David Herbert
 layout: cv
 sections:
   image: david.png
-  email: david.herbert2@ncl.ac.uk
-  webpage: 
+  webpage:
+    name:
+    link:
   role: Research Software Engineer
   education:
     degree: MA Natural Sciences (Physics)
